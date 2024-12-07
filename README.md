@@ -1,0 +1,1 @@
+# whitespot-shop
