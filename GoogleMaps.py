@@ -3,10 +3,14 @@ import matplotlib.pyplot as plt
 import geopandas as gpd
 from shapely.geometry import Point
 import contextily as ctx
+from dotenv import load_dotenv
+import os
+from pyproj import Proj
 
 
-# Replace this with your actual Google Maps API Key
-API_KEY = "AIzaSyCAf6wpKSjh_nHVxGC82NG_7KdHPXYgMcM"
+# Load environment variables
+load_dotenv()
+API_KEY = os.getenv("GOOGLE_MAPS_API_KEY")  # Your Google Maps API Key
 
 # Initialize the Google Maps client
 gmaps = googlemaps.Client(key=API_KEY)
@@ -60,7 +64,6 @@ shop_keywords = ["Mega Image", "Lidl", "La2Pasi", "Kaufland", "Profi", "Carrefou
 # Call the function to search for shops
 shops_data = search_shops(gmaps, center_latitude, center_longitude, search_radius, shop_keywords)
 
-# Process and visualize results using geopandas
 # Convert shop coordinates into GeoDataFrame
 gdf_data = gpd.GeoDataFrame(
     shops_data,
@@ -68,16 +71,26 @@ gdf_data = gpd.GeoDataFrame(
     crs="EPSG:4326",
 )
 
+# Reproject to web-mercator for compatibility with contextily basemap
+gdf_data = gdf_data.to_crs(epsg=3857)
+
+# Correctly reproject the bounding box limits to match web-mercator
+proj = Proj('epsg:3857')
+projected_minx, projected_miny = proj(minx, miny)
+projected_maxx, projected_maxy = proj(maxx, maxy)
+
 # Plotting with contextily basemap
 fig, ax = plt.subplots(figsize=(12, 12))
 
 # Add basemap with contextily
-ctx.add_basemap(ax, source=ctx.providers.OpenStreetMap.Mapnik, crs=gdf_data.crs.to_string())
+ctx.add_basemap(ax, source=ctx.providers.OpenStreetMap.Mapnik)
 
 # Plot the shop locations
 gdf_data.plot(ax=ax, markersize=50, color="red", label="Shops")
-ax.set_xlim(minx, maxx)
-ax.set_ylim(miny, maxy)
+
+# Set bounding box limits in reprojected web-mercator coordinates
+ax.set_xlim(projected_minx, projected_maxx)
+ax.set_ylim(projected_miny, projected_maxy)
 
 # Set titles and legends
 ax.set_title("Shops in Bucharest's Bounding Box", fontsize=15)
