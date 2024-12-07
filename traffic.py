@@ -1,3 +1,4 @@
+import json
 import geopandas as gpd
 import matplotlib.pyplot as plt
 from shapely.geometry import box
@@ -24,7 +25,29 @@ bbox = box(minx, miny, maxx, maxy)
 
 gdf_clipped_roads = gdf_edges[gdf_edges.intersects(bbox)]
 
-# Step 4: Plot the traffic congestion map
+# Step 4: Save traffic information in a dictionary
+traffic_dict = {}
+
+for idx, row in gdf_clipped_roads.iterrows():
+    road_id = row['osmid'] if isinstance(row['osmid'], (int, str)) else f"road_{idx}"  # Ensure road_id is unique and hashable
+    congestion = row['congestion']
+    color = row['color']
+    coordinates = list(row['geometry'].coords)
+    
+    traffic_dict[road_id] = {
+        'congestion': congestion,
+        'color': color,
+        'coordinates': coordinates
+    }
+
+# Step 5: Save the dictionary to a JSON file
+json_file_path = "traffic_info.json"
+with open(json_file_path, 'w') as json_file:
+    json.dump(traffic_dict, json_file, indent=4)
+
+print(f"Traffic data saved to {json_file_path}")
+
+# Step 6: Plot the traffic congestion map (optional)
 fig, ax = plt.subplots(figsize=(10, 10))
 for _, row in gdf_clipped_roads.iterrows():
     line_coords = list(row['geometry'].coords)
