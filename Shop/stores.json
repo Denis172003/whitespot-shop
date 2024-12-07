@@ -1,0 +1,44 @@
+{
+
+"lidl_stores" : [
+    {"name": "Lidl", "address": "Bulevardul Basarabia 246, 022204 București"},
+    {"name": "Lidl", "address": "Strada Străulești 69f, 013339 București"},
+    {"name": "Lidl", "address": "Strada Valea Oltului 93 - 107, 061973 București"},
+    {"name": "Lidl", "address": "Strada Turnu Măgurele 16 - 24, 041681 București"},
+    {"name": "Lidl", "address": "Strada Valea Cascadelor 3, 061513 București"}
+],
+
+
+"mega_image_stores" : [
+    {"name": "Mega Image RAHOVA", "address": "Calea Rahovei Nr. 299, Bucureşti 050899", "program": "Saturday - Open 24/7"},
+    {"name": "Mega Image TITULESCU", "address": "Bd Nicolae Titulescu 39-49, Bucureşti 011143", "program": "Saturday 08:00 - 22:00"},
+    {"name": "Mega Image ION MINCU", "address": "Bd Ion Mihalache Nr. 58, Bucureşti 011174", "program": "Saturday 06:00 - 23:55"},
+    {"name": "Mega Image ION MIHALACHE", "address": "Bd Ion Mihalache 92, Bucureşti 011197", "program": "Saturday - Open 24/7"},
+    {"name": "Mega Image IANCU DE HUNED", "address": "Str. Grigore Alexandrescu Nr. 83-97, Bucureşti", "program": "Saturday 07:00 - 23:00"}
+
+],
+
+"profi_stores" : [
+    {"name": "Profi", "address": "Sergent Constantin Moise, nr 16 A/5B, bl. 1, sc. 5, parter, Sector 6"},
+    {"name": "Profi", "address": "Strada Foisorului, nr.108-112, Municipiul Bucuresti, Sector 3"},
+    {"name": "Profi", "address": "Mun. Bucuresti, Sectorul 4, Drumul Binelui, nr. 41B, parter, Spatiu comercial 1"},
+    {"name": "Profi", "address": "B-dul Timisoara, Nr.101 P"},
+    {"name": "Profi", "address": "Drumul Gura Calitei, nr. 53B"}
+],
+
+"la_doi_pasi_stores" : [
+    {"name": "LaDoiPași", "address": "București, Maica Domnului 61"},
+    {"name": "LaDoiPași", "address": "București, Străulești 60A"},
+    {"name": "LaDoiPași", "address": "București, Șos. Pantelimon 312"},
+    {"name": "LaDoiPasi EXTRA", "address": "București, Nuțu Ion 2"}
+  ],
+
+  "carrefour_stores" : [
+    {"name": "Carrefour Baneasa", "address": "Soseaua Bucuresti-Ploiesti, Nr. 44A, Sector 1, Bucuresti", "program": "Luni - Duminică: 07:00-23:00"},
+    {"name": "Carrefour Berceni", "address": "Bd-ul Metalurgiei, Nr. 12-18, Sector 4, Bucuresti", "program": "Luni - Duminică: 07:00-22:00"},
+    {"name": "Carrefour Colentina", "address": "Soseaua Colentina, Nr. 426-426A, Sector 2, Bucuresti", "program": "Luni - Duminică: 07:00-22:00"},
+    {"name": "Carrefour Colosseum", "address": "Soseaua Chitilei, Nr. 284, Sector 1, Bucuresti", "program": "Luni - Duminică: 07:00-22:00"},
+    {"name": "Carrefour Lujerului", "address": "Bulevardul Iuliu Maniu 19, București 061106, Romania", "program": "Luni - Duminică: 07:00-22:00"}
+]
+
+}
