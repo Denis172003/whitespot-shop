@@ -1,0 +1,3204 @@
+{
+    "lidl_stores": [
+        {
+            "name": "Lidl",
+            "address": "Bulevardul Basarabia 246, 022204 Bucuresti",
+            "latitude": 44.4350139,
+            "longitude": 26.173294
+        },
+        {
+            "name": "Lidl",
+            "address": "Strada Straulesti 69f, 013339 Bucuresti",
+            "latitude": 44.4928585,
+            "longitude": 26.062551
+        },
+        {
+            "name": "Lidl",
+            "address": "Strada Valea Oltului 93 - 107, 061973 Bucuresti",
+            "latitude": 44.4173001,
+            "longitude": 26.0129049
+        },
+        {
+            "name": "Lidl",
+            "address": "Strada Turnu Magurele 16 - 24, 041681 Bucuresti",
+            "latitude": 44.3755998,
+            "longitude": 26.1112001
+        },
+        {
+            "name": "Lidl",
+            "address": "Strada Valea Cascadelor 3, 061513 Bucuresti",
+            "latitude": 44.43095160000001,
+            "longitude": 26.0045552
+        },
+        {
+            "name": "Lidl",
+            "address": "Strada Turnu Magurele 230 - 232, 041681 Bucuresti",
+            "latitude": 44.3765784,
+            "longitude": 26.1221947
+        },
+        {
+            "name": "Lidl",
+            "address": "Strada Bratarii 2, 042106 Bucuresti",
+            "latitude": 44.4223981,
+            "longitude": 26.1826495
+        },
+        {
+            "name": "Lidl",
+            "address": "Prelungirea Ghencea 88 - 92, 061702 Bucuresti",
+            "latitude": 44.4108634,
+            "longitude": 26.0072889
+        },
+        {
+            "name": "Lidl",
+            "address": "Bulevardul Theodor Pallady 30, 032265 Bucuresti",
+            "latitude": 44.4082174,
+            "longitude": 26.1789178
+        },
+        {
+            "name": "Lidl",
+            "address": "Bulevardul Bucurestii Noi 111, 012366 Bucuresti",
+            "latitude": 44.4911253,
+            "longitude": 26.0329093
+        },
+        {
+            "name": "Lidl",
+            "address": "Bulevardul Iuliu Maniu 432 - 442, 061126 Bucuresti",
+            "latitude": 44.4346154,
+            "longitude": 25.9925583
+        },
+        {
+            "name": "Lidl",
+            "address": "Bulevardul Theodor Pallady 51, 032265 Bucuresti",
+            "latitude": 44.4084364,
+            "longitude": 26.1968176
+        },
+        {
+            "name": "Lidl",
+            "address": "Drumul Binelui 51, 042164 Bucuresti",
+            "latitude": 44.3695095,
+            "longitude": 26.1228055
+        },
+        {
+            "name": "Lidl",
+            "address": "soseaua Bucuresti-Targoviste 50, 013502 Bucuresti",
+            "latitude": 44.5147827,
+            "longitude": 26.0170177
+        },
+        {
+            "name": "Lidl",
+            "address": "Strada Teius 2, 041233 Bucuresti",
+            "latitude": 44.4014687,
+            "longitude": 26.0560305
+        },
+        {
+            "name": "Lidl",
+            "address": "Bulevardul Timisoara 42c, 061301 Bucuresti",
+            "latitude": 44.4281302,
+            "longitude": 26.0512767
+        },
+        {
+            "name": "Lidl",
+            "address": "Prelungirea Ferentari 66 - 70, 051911 Bucuresti",
+            "latitude": 44.3921408,
+            "longitude": 26.0812208
+        },
+        {
+            "name": "Lidl",
+            "address": "Strada Gherghitei 7, 023713 Bucuresti",
+            "latitude": 44.47051,
+            "longitude": 26.1411532
+        },
+        {
+            "name": "Lidl",
+            "address": "Strada Energeticienilor 13 - 15, 032091 Bucuresti",
+            "latitude": 44.40611879999999,
+            "longitude": 26.1484486
+        },
+        {
+            "name": "Lidl",
+            "address": "Strada Capitan Alexandru serbanescu 58a, 014178 Bucuresti",
+            "latitude": 44.4882496,
+            "longitude": 26.0953539
+        },
+        {
+            "name": "Lidl",
+            "address": "Strada Drumul Gazarului 1, 041778 Bucuresti",
+            "latitude": 44.386758,
+            "longitude": 26.0939177
+        },
+        {
+            "name": "Lidl",
+            "address": "Prelungirea Ghencea 15b - 15d, 061702 Bucuresti",
+            "latitude": 44.4106526,
+            "longitude": 26.0288775
+        },
+        {
+            "name": "Lidl",
+            "address": "soseaua Fundeni 17 - 19, 022327 Bucuresti",
+            "latitude": 44.446775,
+            "longitude": 26.166243
+        },
+        {
+            "name": "Lidl",
+            "address": "soseaua Morarilor 4, 022453 Bucuresti",
+            "latitude": 44.43795110000001,
+            "longitude": 26.1668607
+        },
+        {
+            "name": "Lidl",
+            "address": "Strada Uverturii 202 - 204, 060945 Bucuresti",
+            "latitude": 44.4450041,
+            "longitude": 26.0203809
+        },
+        {
+            "name": "Lidl",
+            "address": "Strada Berceni 8, 041901 Bucuresti",
+            "latitude": 44.3904647,
+            "longitude": 26.124297
+        },
+        {
+            "name": "Lidl",
+            "address": "Strada Savinesti 2, 041702 Bucuresti",
+            "latitude": 44.39136269999999,
+            "longitude": 26.1335194
+        },
+        {
+            "name": "Lidl",
+            "address": "Strada Liviu Rebreanu 19, 031811 Bucuresti",
+            "latitude": 44.4258951,
+            "longitude": 26.1684275
+        },
+        {
+            "name": "Lidl",
+            "address": "Strada Moinesti 63, 062204 Bucuresti",
+            "latitude": 44.4279927,
+            "longitude": 26.0159952
+        }
+    ],
+    "mega_image_stores": [
+        {
+            "name": "Mega Image RAHOVA",
+            "address": "Calea Rahovei Nr. 299, Bucuresti 050899",
+            "latitude": 44.41249800000001,
+            "longitude": 26.073201
+        },
+        {
+            "name": "Mega Image TITULESCU",
+            "address": "Bd Nicolae Titulescu 39-49, Bucuresti 011143",
+            "latitude": 44.451895,
+            "longitude": 26.079206
+        },
+        {
+            "name": "Mega Image ION MINCU",
+            "address": "Bd Ion Mihalache Nr. 58, Bucuresti 011174",
+            "latitude": 44.458062,
+            "longitude": 26.0785446
+        },
+        {
+            "name": "Mega Image ION MIHALACHE",
+            "address": "Bd Ion Mihalache 92, Bucuresti 011197",
+            "latitude": 44.4604887,
+            "longitude": 26.075391
+        },
+        {
+            "name": "Mega Image IANCU DE HUNED",
+            "address": "Str. Grigore Alexandrescu Nr. 83-97, Bucuresti",
+            "latitude": 44.4519502,
+            "longitude": 26.0964154
+        },
+        {
+            "name": "Mega Image MILITARI",
+            "address": "Bd Iuliu Maniu 51, Bucuresti",
+            "latitude": 44.43349629999999,
+            "longitude": 26.0340144
+        },
+        {
+            "name": "Mega Image GIULESTI",
+            "address": "Calea Giulesti 38-40, Bucuresti",
+            "latitude": 44.4581914,
+            "longitude": 26.0523868
+        },
+        {
+            "name": "Mega Image BANU MANTA",
+            "address": "Bd. Nicolae Titulescu Nr 95-103, Bucuresti",
+            "latitude": 44.4521909,
+            "longitude": 26.0755347
+        },
+        {
+            "name": "Mega Image CAMIL RESSU",
+            "address": "Str. Camil Ressu Nr 16, Bucuresti",
+            "latitude": 44.4179469,
+            "longitude": 26.144187
+        },
+        {
+            "name": "Mega Image GLORIA",
+            "address": "Str. Baba Novac Nr. 25, Bucuresti",
+            "latitude": 44.4281619,
+            "longitude": 26.1538877
+        },
+        {
+            "name": "Mega Image CHITILA",
+            "address": "Sos. Chitilei Nr. 136, Bucuresti",
+            "latitude": 44.4824766,
+            "longitude": 26.0304905
+        },
+        {
+            "name": "Mega Image DOMENII",
+            "address": "Bd. Ion Mihalache Nr. 128, Bucuresti",
+            "latitude": 44.4651627,
+            "longitude": 26.0688767
+        },
+        {
+            "name": "Mega Image PIATA IANCULUI",
+            "address": "Sos. Iancului Nr. 4, Bucuresti",
+            "latitude": 44.4422366,
+            "longitude": 26.1418342
+        },
+        {
+            "name": "Mega Image COLENTINA OBOR",
+            "address": "Sos. Colentina Nr. 3, Bucuresti",
+            "latitude": 44.45272,
+            "longitude": 26.126281
+        },
+        {
+            "name": "Mega Image Shop&Go BABA NOVAC 13",
+            "address": "Str. Baba Novac Nr. 13A, Bucuresti 316240",
+            "latitude": 44.4260287,
+            "longitude": 26.1479487
+        },
+        {
+            "name": "Mega Image PRECIZIEI",
+            "address": "Bd. Preciziei Nr. 24, Bucuresti",
+            "latitude": 44.4333006,
+            "longitude": 25.9859852
+        },
+        {
+            "name": "Mega Image LIZEANU",
+            "address": "Sos. Stefan Cel Mare 226, Bucuresti",
+            "latitude": 44.4514149,
+            "longitude": 26.1206263
+        },
+        {
+            "name": "Mega Image TITAN",
+            "address": "Str. Liviu Rebreanu 13-15, Bucuresti",
+            "latitude": 44.42558080000001,
+            "longitude": 26.1658814
+        },
+        {
+            "name": "Mega Image COLENTINA",
+            "address": "Sos Colentina 81, Bucuresti",
+            "latitude": 44.4664119,
+            "longitude": 26.1371361
+        },
+        {
+            "name": "Mega Image BRANCOVEANU",
+            "address": "Bd. Brancoveanu Nr. 45, Bucuresti",
+            "latitude": 44.3917078,
+            "longitude": 26.1101931
+        },
+        {
+            "name": "Mega Image CAROL",
+            "address": "Bld. Carol Nr. 61, Bucuresti",
+            "latitude": 44.4377692,
+            "longitude": 26.1134599
+        },
+        {
+            "name": "Mega Image VALEA OLTULUI",
+            "address": "Str. Valea Oltului Nr. 131-137, Bucuresti",
+            "latitude": 44.4186387,
+            "longitude": 26.0129351
+        },
+        {
+            "name": "Mega Image PIATA MUNCII",
+            "address": "Bulevardul Decebal 25-29, Bucuresti 030964",
+            "latitude": 44.4314401,
+            "longitude": 26.1373269
+        },
+        {
+            "name": "Mega Image APUSULUI",
+            "address": "Str. Apusului Nr. 50, Bucuresti",
+            "latitude": 44.4378165,
+            "longitude": 26.0140141
+        },
+        {
+            "name": "Mega Image PIATA VITAN",
+            "address": "Str. Calea Vitan 13-19, Bucuresti",
+            "latitude": 44.4226524,
+            "longitude": 26.1240891
+        },
+        {
+            "name": "Mega Image PIATA AMZEI",
+            "address": "Str. Piata Amzei Nr. 10-22, Bucuresti 010345",
+            "latitude": 44.4436981,
+            "longitude": 26.0957782
+        },
+        {
+            "name": "Mega Image DAMBOVITA",
+            "address": "Calea Vitan Nr. 126, Bucuresti",
+            "latitude": 44.4143305,
+            "longitude": 26.1325553
+        },
+        {
+            "name": "Mega Image DELEA NOUA",
+            "address": "Str. Delea Noua Nr. 2, Bucuresti 030925",
+            "latitude": 44.4311798,
+            "longitude": 26.1296633
+        },
+        {
+            "name": "Mega Image EXPOZITIEI",
+            "address": "Bd. Expozitiei Nr. 101, Bucuresti",
+            "latitude": 44.4729493,
+            "longitude": 26.058732
+        },
+        {
+            "name": "Mega Image COMPOZITORILOR",
+            "address": "Bd. 1 Mai Nr 28, Bucuresti",
+            "latitude": 44.41898399999999,
+            "longitude": 26.0433785
+        },
+        {
+            "name": "Mega Image MAICA DOMNULUI",
+            "address": "Str. Lacul Tei Nr. 119-121, Bucuresti",
+            "latitude": 44.4299395,
+            "longitude": 26.2654436
+        },
+        {
+            "name": "Mega Image ST MARE METROU",
+            "address": "Bd. Stefan Cel Mare Nr. 14, Bucuresti",
+            "latitude": 44.4267674,
+            "longitude": 26.1025384
+        },
+        {
+            "name": "Mega Image FAVORIT",
+            "address": "Dr Taberei, Nr 24, Bucuresti 061386",
+            "latitude": 44.4246973,
+            "longitude": 26.046399
+        },
+        {
+            "name": "Mega Image BACILA",
+            "address": "Strada Mr. Bacila Vasile Nr. 43, Bucuresti",
+            "latitude": 44.465164,
+            "longitude": 26.148575
+        },
+        {
+            "name": "Mega Image CAMPIA LIBERTATII",
+            "address": "Str. Campia Libertatii Nr. 36, Bucuresti",
+            "latitude": 44.42960980000001,
+            "longitude": 26.1466543
+        },
+        {
+            "name": "Mega Image PIATA SUDULUI",
+            "address": "Sos. Oltenitei Nr. 208, Bucuresti",
+            "latitude": 44.393785,
+            "longitude": 26.119817
+        },
+        {
+            "name": "Mega Image VATRA LUMINOASA",
+            "address": "Str Magura Vulturului Nr. 1, Bucuresti 021701",
+            "latitude": 44.438298,
+            "longitude": 26.139041
+        },
+        {
+            "name": "Mega Image HUEDIN",
+            "address": "Str. Gradistea Nr. 8, Bucuresti 077120",
+            "latitude": 44.3829781,
+            "longitude": 26.1010562
+        },
+        {
+            "name": "Mega Image BASARABIEI",
+            "address": "Bd. Basarabia Nr. 101, Bucuresti",
+            "latitude": 44.4373729,
+            "longitude": 26.1694636
+        },
+        {
+            "name": "Mega Image SISESTI",
+            "address": "Soseaua Gheorghe Ionescu Sisesti Nr. 8B, Bucuresti",
+            "latitude": 44.5005352,
+            "longitude": 26.0685769
+        },
+        {
+            "name": "Mega Image GIURGIULUI 2",
+            "address": "Soseaua Giurgiului Nr. 52-54, Bucuresti",
+            "latitude": 44.3970969,
+            "longitude": 26.095607
+        },
+        {
+            "name": "Mega Image DRISTOR",
+            "address": "Bld. Camil Ressu Nr. 7, Bucuresti",
+            "latitude": 44.4205003,
+            "longitude": 26.1415456
+        },
+        {
+            "name": "Mega Image TURNU MAGURELE",
+            "address": "Str. Turnu Magurele Nr. 250-270, Bucuresti",
+            "latitude": 44.37893709999999,
+            "longitude": 26.127587
+        },
+        {
+            "name": "Mega Image BANEASA",
+            "address": "Sos. Bucuresti-Ploiesti Nr. 83-87, Bucuresti",
+            "latitude": 44.5053415,
+            "longitude": 26.0799348
+        },
+        {
+            "name": "Mega Image Matei Ambrozie",
+            "address": "Bdul Camil Ressu, Pictor Nr. 41, Bucuresti",
+            "latitude": 44.4163358,
+            "longitude": 26.150186
+        },
+        {
+            "name": "Mega Image SG Drumul Taberei",
+            "address": "Drumul Taberei, Blvd. Tineretului, Bucuresti",
+            "latitude": 44.410399,
+            "longitude": 26.1107837
+        },
+        {
+            "name": "Mega Image GIURGIULUI",
+            "address": "SOS. GIURGIULUI NR.131, Bucuresti",
+            "latitude": 44.3802897,
+            "longitude": 26.0926823
+        },
+        {
+            "name": "Mega Image NORILOR",
+            "address": "STR. C-TIN RADULESCU MOTRU NR 12, Bucuresti",
+            "latitude": 44.8027376,
+            "longitude": 22.9728558
+        },
+        {
+            "name": "Mega Image Shop&Go PANTELIMON 328",
+            "address": "SOS.PANTELIMON NR.328, Bucuresti",
+            "latitude": 44.44177699999999,
+            "longitude": 26.171616
+        },
+        {
+            "name": "Mega Image CHARLES DE GAULLE",
+            "address": "STR.EMIL PANGRATI NR.35, Bucuresti",
+            "latitude": 44.464546,
+            "longitude": 26.08839
+        },
+        {
+            "name": "Mega Image CEAHLAU",
+            "address": "STR.CEAHLAU NR20, Bucuresti",
+            "latitude": 44.4529839,
+            "longitude": 26.0524289
+        },
+        {
+            "name": "Mega Image NITU VASILE",
+            "address": "STR. SERGENT NITU VASILE NR. 50-54, Bucuresti",
+            "latitude": 44.3889536,
+            "longitude": 26.1163074
+        },
+        {
+            "name": "Mega Image VOILA",
+            "address": "SOS OLTENITEI 232, BL. 23, Bucuresti",
+            "latitude": 44.3905439,
+            "longitude": 26.1279806
+        },
+        {
+            "name": "Mega Image POD BANEASA",
+            "address": "BD.ALEX SERBANESCU NR.60-64, Bucuresti",
+            "latitude": 44.4267674,
+            "longitude": 26.1025384
+        },
+        {
+            "name": "Mega Image GLUCOZA",
+            "address": "STR.FABRICA DE GLUCOZA NR 9 B, Bucuresti",
+            "latitude": 44.4780783,
+            "longitude": 26.1150119
+        },
+        {
+            "name": "Mega Image STEFAN CEL MARE",
+            "address": "SOS. STEFAN CEL MARE NR. 40, Bucuresti",
+            "latitude": 44.4526226,
+            "longitude": 26.1109952
+        },
+        {
+            "name": "Mega Image Shop&Go WITTING 2",
+            "address": "STR.WITTING NR.2, Bucuresti",
+            "latitude": 44.4449367,
+            "longitude": 26.0739956
+        },
+        {
+            "name": "Mega Image GRIVITEI METROU",
+            "address": "CALEA GRIVITEI NR 214, Bucuresti",
+            "latitude": 44.4621863,
+            "longitude": 26.0574322
+        },
+        {
+            "name": "Mega Image Shop&Go TITULESCU 121",
+            "address": "B.DUL NICOLAE TITULESCU,NR.121, Bucuresti",
+            "latitude": 44.452443,
+            "longitude": 26.073193
+        },
+        {
+            "name": "Mega Image Shop&Go ION MIHALACHE 121",
+            "address": "BD.ION MIHALACHE NR.121, Bucuresti",
+            "latitude": 44.4629432,
+            "longitude": 26.0711218
+        },
+        {
+            "name": "Mega Image Shop&Go BASARABIA 110",
+            "address": "BD.BASARABIA NR 110, Bucuresti",
+            "latitude": 44.4334798,
+            "longitude": 26.1557443
+        },
+        {
+            "name": "Mega Image MAIOR CORAVU",
+            "address": "SOS. MIHAI BRAVU NR 176A, Bucuresti",
+            "latitude": 44.4360855,
+            "longitude": 26.1365567
+        },
+        {
+            "name": "Mega Image Shop&Go MIHAI BRAVU 140",
+            "address": "SOS MIHAI BRAVU NR.140, Bucuresti",
+            "latitude": 44.437912,
+            "longitude": 26.135659
+        },
+        {
+            "name": "Mega Image Shop&Go GURA IALOMITEI 1",
+            "address": "STR GURA IALOMITEI NR 1, Bucuresti",
+            "latitude": 44.41382,
+            "longitude": 26.1840899
+        },
+        {
+            "name": "Mega Image Shop&Go TURDA 100",
+            "address": "STR TURDA NR 100, Bucuresti",
+            "latitude": 44.4576323,
+            "longitude": 26.0682323
+        },
+        {
+            "name": "Mega Image Shop&Go DUMBRAVA NOUA 24",
+            "address": "STR DUMBRAVA NOUA, NR 24 D, Bucuresti",
+            "latitude": 44.4131618,
+            "longitude": 26.0645622
+        },
+        {
+            "name": "Mega Image Shop&Go PANTELIMON 89",
+            "address": "SOSEAUA PANTELIMON NR.89, Bucuresti",
+            "latitude": 44.44533819999999,
+            "longitude": 26.136609
+        },
+        {
+            "name": "Mega Image ROMANCIERILOR",
+            "address": "BD.ROMANCIERILOR NR.5, Bucuresti",
+            "latitude": 44.4261034,
+            "longitude": 26.0242968
+        },
+        {
+            "name": "Mega Image DOAMNA GHICA",
+            "address": "STR. DOAMNA GHICA NR.8, Bucuresti",
+            "latitude": 44.4625607,
+            "longitude": 26.1313382
+        },
+        {
+            "name": "Mega Image PIATA VICTORIEI",
+            "address": "CALEA VICTORIEI NR.155, Bucuresti",
+            "latitude": 44.451265,
+            "longitude": 26.086502
+        },
+        {
+            "name": "Mega Image Shop&Go IULIU MANIU 188",
+            "address": "B-DUL IULIU MANIU NR. 188, Bucuresti",
+            "latitude": 44.4341486,
+            "longitude": 26.010619
+        },
+        {
+            "name": "Mega Image Shop&Go DECEBAL 18",
+            "address": "B-DUL DECEBAL NR.18, Bucuresti",
+            "latitude": 44.4300202,
+            "longitude": 26.1359611
+        },
+        {
+            "name": "Mega Image CERNAUTI",
+            "address": "STR.CERNAUTI NR. 29, Bucuresti",
+            "latitude": 44.4369665,
+            "longitude": 26.1623249
+        },
+        {
+            "name": "Mega Image Shop&Go ION MIHALACHE 60",
+            "address": "PIATA 1 MAI, Bucuresti",
+            "latitude": 44.4586106,
+            "longitude": 26.0778655
+        },
+        {
+            "name": "Mega Image Shop&Go BUC-TARGOVISTE 22",
+            "address": "SOS. BUCURESTI TARGOVISTE NR. 22 B, Bucuresti",
+            "latitude": 44.5117961,
+            "longitude": 26.0203346
+        },
+        {
+            "name": "Mega Image Shop&Go IULIU MANIU 97",
+            "address": "B-DUL IULIU MANIU NR.97, Bucuresti",
+            "latitude": 44.4333566,
+            "longitude": 26.0054192
+        },
+        {
+            "name": "Mega Image Shop&Go DRUMUL TABEREI 18",
+            "address": "STR. DRUMUL TABEREI NR. 18, Bucuresti",
+            "latitude": 44.4253712,
+            "longitude": 26.0508002
+        },
+        {
+            "name": "Mega Image Shop&Go SINCAI 16",
+            "address": "B-DUL GHEORGHE SINCAI NR. 16, Bucuresti",
+            "latitude": 44.4152968,
+            "longitude": 26.1110035
+        },
+        {
+            "name": "Mega Image COMPOZITORI-SIBIU",
+            "address": "B-DUL 1 MAI NR. 18B, Bucuresti",
+            "latitude": 44.4196216,
+            "longitude": 26.0476127
+        },
+        {
+            "name": "Mega Image Shop&Go UIOARA 3",
+            "address": "STR. UIOARA NR.3, Bucuresti",
+            "latitude": 44.379336,
+            "longitude": 26.1031693
+        },
+        {
+            "name": "Mega Image Shop&Go MAIOR BACILA 7",
+            "address": "MAIOR BACILA NR. 7, Bucuresti",
+            "latitude": 44.4641711,
+            "longitude": 26.1404907
+        },
+        {
+            "name": "Mega Image Shop&Go EMINESCU 100",
+            "address": "STR. MIHAI EMINESCU NR 100, Bucuresti",
+            "latitude": 44.4479325,
+            "longitude": 26.1057236
+        },
+        {
+            "name": "Mega Image Shop&Go CHILIA VECHE 7",
+            "address": "STR. CHILIA VECHE NR.7, Bucuresti",
+            "latitude": 44.4168479,
+            "longitude": 26.0307314
+        },
+        {
+            "name": "Mega Image Shop&Go MIHAI BRAVU 311",
+            "address": "SOS.MIHAI BRAVU 311-313, Bucuresti",
+            "latitude": 44.418522,
+            "longitude": 26.136192
+        },
+        {
+            "name": "Mega Image Shop&Go APUSULUI 29",
+            "address": "STR. APUSULUI NR.29, Bucuresti",
+            "latitude": 44.4410588,
+            "longitude": 26.0177564
+        },
+        {
+            "name": "Mega Image Shop&Go TURDA 117",
+            "address": "STR. TURDA NR. 117 -119, Bucuresti",
+            "latitude": 44.458005,
+            "longitude": 26.0675989
+        },
+        {
+            "name": "Mega Image MOSILOR FAINARI",
+            "address": "CALEA MOSILOR NR 249, Bucuresti",
+            "latitude": 44.447238,
+            "longitude": 26.122422
+        },
+        {
+            "name": "Mega Image Shop&Go MARASESTI 2",
+            "address": "BD MARASESTI NR 2B, BL B, PARTER, Bucuresti",
+            "latitude": 44.4185437,
+            "longitude": 26.0962462
+        },
+        {
+            "name": "Mega Image OLTENITEI PARC",
+            "address": "SOS OLTENITEI NR.48-50, Bucuresti",
+            "latitude": 44.39906329999999,
+            "longitude": 26.1066987
+        },
+        {
+            "name": "Mega Image LUNCA CERNEI",
+            "address": "STR DR TABEREI NR 80, Bucuresti",
+            "latitude": 44.4227771,
+            "longitude": 26.0216533
+        },
+        {
+            "name": "Mega Image PISCULUI",
+            "address": "STRADA PISCULUI NR.16, Bucuresti",
+            "latitude": 44.4108166,
+            "longitude": 26.1123877
+        },
+        {
+            "name": "Mega Image Shop&Go FABRICII 25",
+            "address": "STR. FABRICII NR. 25, Bucuresti",
+            "latitude": 44.4381759,
+            "longitude": 26.0366421
+        },
+        {
+            "name": "Mega Image Shop&Go GHENCEA 24",
+            "address": "BD. GHENCEA NR. 24, Bucuresti",
+            "latitude": 44.4158868,
+            "longitude": 26.0494101
+        },
+        {
+            "name": "Mega Image Shop&Go ALEEA SALAJ 10",
+            "address": "ALEEA SALAJ NR.10, Bucuresti",
+            "latitude": 44.4078609,
+            "longitude": 26.0720519
+        },
+        {
+            "name": "Mega Image Shop&Go IONESCU GHEORGHE7",
+            "address": "STR. IONESCU GHEORGHE NR 7, Bucuresti",
+            "latitude": 44.3843331,
+            "longitude": 26.135105
+        },
+        {
+            "name": "Mega Image Shop&Go CRANGASI 40",
+            "address": "CALEA CRANGASI NR 40, Bucuresti",
+            "latitude": 44.452818,
+            "longitude": 26.041707
+        },
+        {
+            "name": "Mega Image CITY MALL",
+            "address": "SOS OLTENITEI NR 2, Bucuresti",
+            "latitude": 44.4022261,
+            "longitude": 26.0979669
+        },
+        {
+            "name": "Mega Image Shop&Go DECEBAL 12",
+            "address": "BD. DECEBAL NR.12, Bucuresti",
+            "latitude": 44.42854,
+            "longitude": 26.133506
+        },
+        {
+            "name": "Mega Image Shop&Go P PROTOPOPESCU 43",
+            "address": "BD. PACHE PROTOPOPESCU NR. 43, Bucuresti",
+            "latitude": 44.4395457,
+            "longitude": 26.1231368
+        },
+        {
+            "name": "Mega Image Shop&Go CAMIL RESSU 64",
+            "address": "BD. CAMIL RESSU NR. 64, Bucuresti",
+            "latitude": 44.4131157,
+            "longitude": 26.1587354
+        },
+        {
+            "name": "Mega Image Shop&Go JIULUI 144",
+            "address": "STR. JIULUI 144, Bucuresti",
+            "latitude": 44.4848377,
+            "longitude": 26.0554391
+        },
+        {
+            "name": "Mega Image SG 1 MAI 41",
+            "address": "Str. 1 Mai Nr 41, Bucuresti",
+            "latitude": 44.5417665,
+            "longitude": 26.0629664
+        },
+        {
+            "name": "Mega Image SG ION BERINDEI 11",
+            "address": "str. Ion Berindei 11, Bucuresti",
+            "latitude": 44.46206919999999,
+            "longitude": 26.1315294
+        },
+        {
+            "name": "Mega Image SG FABRICA DE GLUCOZA 6-8",
+            "address": "str. Fabrica de Glucoza nr 6-8, Bucuresti",
+            "latitude": 44.4776859,
+            "longitude": 26.1196771
+        },
+        {
+            "name": "Mega Image SG PRELUNGIREA GHENCEA 32",
+            "address": "str Prelungirea Ghencea nr 32, Bucuresti",
+            "latitude": 44.4125871,
+            "longitude": 26.0190592
+        },
+        {
+            "name": "Mega Image SG CHIRISTIGII 2",
+            "address": "STR. CHIRISTIGIILOR NR 2, Bucuresti 021562",
+            "latitude": 44.4472087,
+            "longitude": 26.1271302
+        },
+        {
+            "name": "Mega Image SG VASILE GOLCEA 10",
+            "address": "STR. VASILE GOLCEA NR 10, Bucuresti 061481",
+            "latitude": 44.4280099,
+            "longitude": 26.0167768
+        },
+        {
+            "name": "Mega Image SG LACUL TEI 126-128",
+            "address": "BD. LACUL TEI NR 126-128, Bucuresti 020397",
+            "latitude": 44.4645536,
+            "longitude": 26.1269448
+        },
+        {
+            "name": "Mega Image SG SACH. VISARION 43",
+            "address": "STR. SACHELARIE VISARION NR 43, Bucuresti 021693",
+            "latitude": 44.4430562,
+            "longitude": 26.1367312
+        },
+        {
+            "name": "Mega Image SG PREVEDERII 13A",
+            "address": "Str. Prevederii Nr. 13A, Bucuresti",
+            "latitude": 44.408668,
+            "longitude": 26.1713859
+        },
+        {
+            "name": "Mega Image SG RADULESCU MOTRU22",
+            "address": "STR. C-TIN RADULESCU MOTRU NR 22, Bucuresti 040366",
+            "latitude": 44.8027376,
+            "longitude": 22.9728558
+        },
+        {
+            "name": "Mega Image SG EMIL RACOVITA 25",
+            "address": "STR. EMIL RACOVITA. NR 25, Bucuresti 041762",
+            "latitude": 44.3816437,
+            "longitude": 26.1256352
+        },
+        {
+            "name": "Mega Image SG HANUL ANCUTEI 6",
+            "address": "Intrarea Hanul Ancutei Nr. 6, Bucuresti 062164",
+            "latitude": 44.43184979999999,
+            "longitude": 26.012779
+        },
+        {
+            "name": "Mega Image SG CITY GATE",
+            "address": "PIATA PRESEI LIBERE NR.3-5, Bucuresti",
+            "latitude": 44.4782169,
+            "longitude": 26.0712635
+        },
+        {
+            "name": "Mega Image MIHAI EMINESCU",
+            "address": "STR MIHAI EMINESCU 185, Bucuresti",
+            "latitude": 44.4442265,
+            "longitude": 26.1186025
+        },
+        {
+            "name": "Mega Image THEODOR PALLADY",
+            "address": "BD.THEODOR PALLADY NR.73A, Bucuresti",
+            "latitude": 44.410368,
+            "longitude": 26.1768036
+        },
+        {
+            "name": "Mega Image UNIREA",
+            "address": "PTA. UNIRII 1, Bucuresti",
+            "latitude": 44.42735760000001,
+            "longitude": 26.1044598
+        },
+        {
+            "name": "Mega Image SEBASTIAN",
+            "address": "CALEA 13 SEPT 221-225, Bucuresti",
+            "latitude": 44.4200866,
+            "longitude": 26.0657478
+        },
+        {
+            "name": "Mega Image MOGHIOROS",
+            "address": "SOS. DR TABEREI NR 40-44, Bucuresti",
+            "latitude": 44.4230714,
+            "longitude": 26.037345
+        },
+        {
+            "name": "Mega Image Shop&Go SECUILOR 8",
+            "address": "STR. SECUILOR NR. 8, Bucuresti",
+            "latitude": 44.391858,
+            "longitude": 26.117107
+        },
+        {
+            "name": "Mega Image BUCURESTII NOI",
+            "address": "B-DUL BUCURESTII NOI NR. 7 - 9, Bucuresti 012351",
+            "latitude": 44.4771265,
+            "longitude": 26.0445113
+        },
+        {
+            "name": "Mega Image Shop&Go CARAMFIL 48",
+            "address": "STR. NICOLAE CARAMFIL NR. 48, Bucuresti",
+            "latitude": 44.4836671,
+            "longitude": 26.0928438
+        },
+        {
+            "name": "Mega Image Shop&Go ION MIHALACHE 109",
+            "address": "BDUL ION MIHALACHE NR 109, Bucuresti",
+            "latitude": 44.4609575,
+            "longitude": 26.073705
+        },
+        {
+            "name": "Mega Image TITAN MALL",
+            "address": "STR LIVIU REBREANU, Bucuresti",
+            "latitude": 44.4246844,
+            "longitude": 26.1618399
+        },
+        {
+            "name": "Mega Image ANDRONACHE",
+            "address": "SOS. COLENTINA NR. 261, Bucuresti",
+            "latitude": 44.469576,
+            "longitude": 26.1447591
+        },
+        {
+            "name": "Mega Image Shop&Go C VACARESTI 201",
+            "address": "CALEA VACARESTI NR. 201, Bucuresti",
+            "latitude": 44.4124425,
+            "longitude": 26.1148524
+        },
+        {
+            "name": "Mega Image PIATA FLOREASCA",
+            "address": "STR BANU ANTONACHE, S1, Bucuresti 011663",
+            "latitude": 44.4612091,
+            "longitude": 26.0999941
+        },
+        {
+            "name": "Mega Image Shop&Go PANTELIMON 256",
+            "address": "SOS. PANTELIMON NR.256, Bucuresti",
+            "latitude": 44.4427178,
+            "longitude": 26.1563103
+        },
+        {
+            "name": "Mega Image Shop&Go GIURGIULUI 118",
+            "address": "SOS. GIURGIULUI 118-120, Bucuresti",
+            "latitude": 44.3906165,
+            "longitude": 26.0921615
+        },
+        {
+            "name": "Mega Image Shop&Go IULIU MANIU 73",
+            "address": "BD. IULIU MANIU NR.73, Bucuresti",
+            "latitude": 44.4335347,
+            "longitude": 26.0117887
+        },
+        {
+            "name": "Mega Image Shop&Go G. IONESCU 94",
+            "address": "STR. GRIGORE IONESCU NR. 94, Bucuresti",
+            "latitude": 44.4592591,
+            "longitude": 26.1243172
+        },
+        {
+            "name": "Mega Image Shop&Go SALAJ 1-3",
+            "address": "SOS. SALAJ NR.1-3, Bucuresti",
+            "latitude": 44.4078658,
+            "longitude": 26.0774269
+        },
+        {
+            "name": "Mega Image Shop&Go FICUSULUI 5-7",
+            "address": "BD-UL FICUSULUI NR. 5-7, Bucuresti",
+            "latitude": 44.4898989,
+            "longitude": 26.0845035
+        },
+        {
+            "name": "Mega Image Shop&Go DOROBANTI 59",
+            "address": "CALEA DOROBANTI NR. 59, Bucuresti",
+            "latitude": 44.45005880000001,
+            "longitude": 26.0989926
+        },
+        {
+            "name": "Mega Image Shop&Go SERBAN VODA 176",
+            "address": "CALEA SERBAN VODA NR. 176, Bucuresti",
+            "latitude": 44.4159418,
+            "longitude": 26.1009578
+        },
+        {
+            "name": "Mega Image AVRIG",
+            "address": "BULEVARDUL FERDINAND NR. 113A, Bucuresti",
+            "latitude": 44.4452569,
+            "longitude": 26.1319509
+        },
+        {
+            "name": "Mega Image PALEOLOGU",
+            "address": "CALEA MOSILOR NR. 101, Bucuresti",
+            "latitude": 44.4364525,
+            "longitude": 26.1107749
+        },
+        {
+            "name": "Mega Image Shop&Go JIULUI 61",
+            "address": "STR. JIULUI NR.61, Bucuresti",
+            "latitude": 44.4842233,
+            "longitude": 26.046225
+        },
+        {
+            "name": "Mega Image Shop&Go VALEA BUZAULUI 14",
+            "address": "STR. VALEA BUZAULUI NR. 14, Bucuresti",
+            "latitude": 44.4060187,
+            "longitude": 26.1749644
+        },
+        {
+            "name": "Mega Image Shop&Go PANTELIMON 283",
+            "address": "SOS. PANTELIMON 283, Bucuresti",
+            "latitude": 44.4429027,
+            "longitude": 26.164805
+        },
+        {
+            "name": "Mega Image Shop&Go DOROBANTI 111",
+            "address": "CALEA DOROBANTI NR. 111-131, Bucuresti",
+            "latitude": 44.454669,
+            "longitude": 26.0974634
+        },
+        {
+            "name": "Mega Image Shop&Go Laminorului 49",
+            "address": "STR. LAMINORULUI NR. 49, Bucuresti",
+            "latitude": 44.4895094,
+            "longitude": 26.0260608
+        },
+        {
+            "name": "Mega Image Sebastian 2",
+            "address": "STR. SEBASTIAN NR. 138-140, Bucuresti",
+            "latitude": 44.42170290000001,
+            "longitude": 26.0655831
+        },
+        {
+            "name": "Mega Image eShop GHENCEA",
+            "address": "BLD. PRELUNGIREA GHENCEA NR. 89 B, Bucuresti",
+            "latitude": 44.411658,
+            "longitude": 26.015705
+        },
+        {
+            "name": "Mega Image Shop&Go Italiana 18",
+            "address": "STR. ITALIANA Nr.18, Bucuresti",
+            "latitude": 44.4386223,
+            "longitude": 26.1076075
+        },
+        {
+            "name": "Mega Image Shop&Go INDUSTRIILOR 56",
+            "address": "STR. INDUSTRIILOR NR. 56, Bucuresti",
+            "latitude": 44.45048329999999,
+            "longitude": 25.9600849
+        },
+        {
+            "name": "Mega Image Shop&Go MARGEANULUI 40",
+            "address": "STR. MARGEANULUI NR. 40, Bucuresti",
+            "latitude": 44.4121134,
+            "longitude": 26.0610026
+        },
+        {
+            "name": "Mega Image OBOR",
+            "address": "SOS. STEFAN CEL MARE NR. 238, Bucuresti",
+            "latitude": 44.4500014,
+            "longitude": 26.1234324
+        },
+        {
+            "name": "Mega Image PIATA CRANGASI",
+            "address": "CALEA GRANGASI NR.29, Bucuresti",
+            "latitude": 44.4527233,
+            "longitude": 26.0487297
+        },
+        {
+            "name": "Mega Image GRIVITEI",
+            "address": "CALEA GRIVITEI NR.399, Bucuresti",
+            "latitude": 44.4717482,
+            "longitude": 26.0490832
+        },
+        {
+            "name": "Mega Image DINICU GOLESCU",
+            "address": "BD. DINICU GOLESCU NR. 23-25, Bucuresti",
+            "latitude": 44.4443308,
+            "longitude": 26.075656
+        },
+        {
+            "name": "Mega Image MIHAI BRAVU 2",
+            "address": "SOS. MIHAI BRAVU NR. 2, Bucuresti",
+            "latitude": 44.4483326,
+            "longitude": 26.1249754
+        },
+        {
+            "name": "Mega Image PIATA CHIBRIT",
+            "address": "BLD. ION MIHALACHE NR. 168C, Bucuresti",
+            "latitude": 44.471218,
+            "longitude": 26.052038
+        },
+        {
+            "name": "Mega Image TINERETULUI",
+            "address": "BD TINERETULUI 1, Bucuresti",
+            "latitude": 44.4133807,
+            "longitude": 26.1057834
+        },
+        {
+            "name": "Mega Image MIHAI BRAVU",
+            "address": "SOS MIHAI BRAVU 294, Bucuresti",
+            "latitude": 44.4267253,
+            "longitude": 26.1374645
+        },
+        {
+            "name": "Mega Image MOSILOR",
+            "address": "STR. TRAIAN NR.197, Bucuresti",
+            "latitude": 44.4430069,
+            "longitude": 26.1196604
+        },
+        {
+            "name": "Mega Image Shop&Go GHIRLANDEI",
+            "address": "STR.ANA BLANDIANA NR.26, Bucuresti",
+            "latitude": 44.4267674,
+            "longitude": 26.1025384
+        },
+        {
+            "name": "Mega Image Shop&Go C VACARESTI 242",
+            "address": "CALEA VACARESTI NR.242, Bucuresti",
+            "latitude": 44.4101425,
+            "longitude": 26.1155896
+        },
+        {
+            "name": "Mega Image Shop&Go MIHAI BRAVU 35",
+            "address": "MIHAI BRAVU NR. 35, Bucuresti",
+            "latitude": 44.44577080000001,
+            "longitude": 26.1274218
+        },
+        {
+            "name": "Mega Image Shop&Go MOINESTI 5",
+            "address": "STR. MOINESTI NR. 5, Bucuresti",
+            "latitude": 44.4324309,
+            "longitude": 26.019744
+        },
+        {
+            "name": "Mega Image MONACO TOWERS",
+            "address": "SOS. BERCENI NR. 96, Bucuresti",
+            "latitude": 44.3710914,
+            "longitude": 26.1401807
+        },
+        {
+            "name": "Mega Image Shop&Go IANCULUI 13",
+            "address": "SOS. IANCULUI NR.13, Bucuresti",
+            "latitude": 44.4444936,
+            "longitude": 26.1433782
+        },
+        {
+            "name": "Mega Image Shop&Go A. CALINESCU 26",
+            "address": "STR ARMAND CALINESCU NR 26, Bucuresti",
+            "latitude": 44.4393521,
+            "longitude": 26.1092717
+        },
+        {
+            "name": "Mega Image REGINA MARIA",
+            "address": "STR. REGINA MARIA NR.24-26, Bucuresti",
+            "latitude": 44.4267674,
+            "longitude": 26.1025384
+        },
+        {
+            "name": "Mega Image Shop&Go MANTULEASA 22",
+            "address": "STR. MANTULEASA NR. 22, Bucuresti",
+            "latitude": 44.4357085,
+            "longitude": 26.1136727
+        },
+        {
+            "name": "Mega Image DOROBANTI",
+            "address": "CALEA DOROBANTILOR NR. 172-178, Bucuresti",
+            "latitude": 44.458877,
+            "longitude": 26.0955071
+        },
+        {
+            "name": "Mega Image Shop&Go I. MINULESCU 49A",
+            "address": "STR. ION MINULESCU 49A, Bucuresti",
+            "latitude": 44.4174747,
+            "longitude": 26.1192083
+        },
+        {
+            "name": "Mega Image SISESTI 2",
+            "address": "Sos. GHEORGHE IONESCU SISESTI NR. 98C, Bucuresti",
+            "latitude": 44.504078,
+            "longitude": 26.045068
+        },
+        {
+            "name": "Mega Image PANTELIMON",
+            "address": "SOS PANTELIMON 243, Bucuresti",
+            "latitude": 44.4434293,
+            "longitude": 26.1550743
+        },
+        {
+            "name": "Mega Image 13 SEPTEMBRIE",
+            "address": "CALEA 13 SEPTEMBRIE 75-79, Bucuresti",
+            "latitude": 44.4247755,
+            "longitude": 26.0804604
+        },
+        {
+            "name": "Mega Image OBREGIA",
+            "address": "STR. STRADUINTEI NR.1, Bucuresti",
+            "latitude": 44.3829077,
+            "longitude": 26.1164822
+        },
+        {
+            "name": "Mega Image LACUL TEI",
+            "address": "BD LACUL TEI NR 73, Bucuresti",
+            "latitude": 44.4600801,
+            "longitude": 26.1137859
+        },
+        {
+            "name": "Mega Image MINIS",
+            "address": "STR. C-TIN BRANCUSI NR 23, Bucuresti",
+            "latitude": 44.4190754,
+            "longitude": 26.002786
+        },
+        {
+            "name": "Mega Image OLTENITEI",
+            "address": "SOS. OLTENITEI NR. 240, Bucuresti",
+            "latitude": 44.3890982,
+            "longitude": 26.131603
+        },
+        {
+            "name": "Mega Image PIATA RESITA",
+            "address": "STR.RESITA NR 4, Bucuresti",
+            "latitude": 44.380242,
+            "longitude": 26.0999051
+        },
+        {
+            "name": "Mega Image PETRE ISPIRESCU",
+            "address": "STR.PETRE ISPIRESCU NR.86, Bucuresti",
+            "latitude": 44.4153725,
+            "longitude": 26.0617229
+        },
+        {
+            "name": "Mega Image GROZOVICI",
+            "address": "SOS.STEFAN CEL MARE NR.50, BL.35B, Bucuresti",
+            "latitude": 44.4524373,
+            "longitude": 26.1149112
+        },
+        {
+            "name": "Mega Image BUCURESTI MALL",
+            "address": "CALEA VITAN NR.55-59, Bucuresti",
+            "latitude": 44.4204362,
+            "longitude": 26.1268606
+        },
+        {
+            "name": "Mega Image PLAZA ROMANIA",
+            "address": "BD.TIMISOARA NR.26Z, Bucuresti",
+            "latitude": 44.4302412,
+            "longitude": 26.0347151
+        },
+        {
+            "name": "Mega Image Shop&Go COVASNA 32",
+            "address": "ALEEA COVASNA NR. 32, Bucuresti",
+            "latitude": 44.3806214,
+            "longitude": 26.1126048
+        },
+        {
+            "name": "Mega Image Shop&Go CENTURII 7",
+            "address": "STR. CENTURII NR.7, Bucuresti",
+            "latitude": 44.4325054,
+            "longitude": 26.0277327
+        },
+        {
+            "name": "Mega Image Shop&Go LAMOTESTI 3-5",
+            "address": "STR. LAMOTESTI NR. 3-5, Bucuresti",
+            "latitude": 44.381032,
+            "longitude": 26.1069131
+        },
+        {
+            "name": "Mega Image Shop&Go UNIRII 23",
+            "address": "B-DUL UNIRII NR. 23, Bucuresti",
+            "latitude": 44.4268314,
+            "longitude": 26.1014215
+        },
+        {
+            "name": "Mega Image Shop&Go SALAJ 132",
+            "address": "SOS. SALAJ NR. 132, Bucuresti",
+            "latitude": 44.4076073,
+            "longitude": 26.0757876
+        },
+        {
+            "name": "Mega Image Shop&Go MIRCEA VODA 46",
+            "address": "BD MIRCEA VODA NR 46, Bucuresti",
+            "latitude": 44.4188135,
+            "longitude": 26.1127184
+        },
+        {
+            "name": "Mega Image Shop&Go ZIZIN 10",
+            "address": "STRADA ZIZIN NR 10, Bucuresti",
+            "latitude": 44.4164456,
+            "longitude": 26.1248221
+        },
+        {
+            "name": "Mega Image PIATA GEMENI (Concept Store)",
+            "address": "STR. VASILE LASCAR NR 108-116, Bucuresti",
+            "latitude": 44.4455344,
+            "longitude": 26.1110983
+        },
+        {
+            "name": "Mega Image Shop&Go IULIU MANIU 158",
+            "address": "BD. IULIU MANIU NR. 158 A, Bucuresti",
+            "latitude": 44.4342733,
+            "longitude": 26.0166455
+        },
+        {
+            "name": "Mega Image MOSILOR 2",
+            "address": "CALEA MOSILOR 207, Bucuresti",
+            "latitude": 44.4417397,
+            "longitude": 26.1174035
+        },
+        {
+            "name": "Mega Image Shop&Go ALEEA MOLDOVENI 5",
+            "address": "ALEEA MOLDOVENI NR.5, BLOC B21, PARTER, Bucuresti",
+            "latitude": 44.3847416,
+            "longitude": 26.0987901
+        },
+        {
+            "name": "Mega Image VALEA ARGESULUI",
+            "address": "STR VALEA ARGESULUI NR.5, Bucuresti",
+            "latitude": 44.4156492,
+            "longitude": 26.0173392
+        },
+        {
+            "name": "Mega Image IMPARATUL TRAIAN",
+            "address": "STRADA IMPARATUL TRAIAN NR 32, Bucuresti",
+            "latitude": 44.3965556,
+            "longitude": 26.1084539
+        },
+        {
+            "name": "Mega Image Shop&Go SERBAN VODA 43",
+            "address": "CALEA SERBAN VODA NR. 43-49, Bucuresti",
+            "latitude": 44.4215692,
+            "longitude": 26.1028445
+        },
+        {
+            "name": "Mega Image Shop&Go FOISORULUI 10",
+            "address": "STR. FOISORULUI NR.10 A, Bucuresti",
+            "latitude": 44.4205417,
+            "longitude": 26.1213286
+        },
+        {
+            "name": "Mega Image CALEA VACARESTI",
+            "address": "CALEA VACARESTI NR. 220-224, Bucuresti",
+            "latitude": 44.412161,
+            "longitude": 26.1141016
+        },
+        {
+            "name": "Mega Image Shop&Go NATIUN.UNITE 3-5",
+            "address": "PIATA NATIUNILE UNITE NR.3-5, Bucuresti",
+            "latitude": 44.4288791,
+            "longitude": 26.0965129
+        },
+        {
+            "name": "Mega Image Shop&Go FOISORULUI 2",
+            "address": "STR. FOISORULUI NR.2, Bucuresti",
+            "latitude": 44.422488,
+            "longitude": 26.1234416
+        },
+        {
+            "name": "Mega Image Shop&Go COMPLEX STEJARII",
+            "address": "STR. JANDARMERIEI NR. 14, Bucuresti",
+            "latitude": 44.5136709,
+            "longitude": 26.0721182
+        },
+        {
+            "name": "Mega Image Shop&Go KOGALNICEANU 1",
+            "address": "PIATA MIHAI KOGALNICEANU NR. 1, Bucuresti",
+            "latitude": 44.434177,
+            "longitude": 26.08777
+        },
+        {
+            "name": "Mega Image Shop&Go C. LIBERTATII 37A",
+            "address": "STR. CAMPIA LIBERTATII NR. 37 A, Bucuresti",
+            "latitude": 44.428186,
+            "longitude": 26.1484922
+        },
+        {
+            "name": "Mega Image BREZOIANU",
+            "address": "STR. ION BREZOIANU NR. 60, Bucuresti",
+            "latitude": 44.438888,
+            "longitude": 26.0928628
+        },
+        {
+            "name": "Mega Image DOMENII 2",
+            "address": "BD. ION MIHALACHE NR. 142, Bucuresti",
+            "latitude": 44.4667251,
+            "longitude": 26.064781
+        },
+        {
+            "name": "Mega Image OBOR 2",
+            "address": "SOS. COLENTINA NR. 1, Bucuresti",
+            "latitude": 44.45158199999999,
+            "longitude": 26.1251523
+        },
+        {
+            "name": "Mega Image MARASESTI 2",
+            "address": "BD MARASESTI NR 131, Bucuresti",
+            "latitude": 44.4229607,
+            "longitude": 26.1080604
+        },
+        {
+            "name": "Mega Image MAGHERU",
+            "address": "BULEVARDUL MAGHERU NR. 9, Bucuresti",
+            "latitude": 44.4432143,
+            "longitude": 26.0978327
+        },
+        {
+            "name": "Mega Image Shop&Go NICOLAE PASCU 1A",
+            "address": "STR. NICOLAE PASCU NR. 1A, Bucuresti",
+            "latitude": 44.4094735,
+            "longitude": 26.1411958
+        },
+        {
+            "name": "Mega Image ION CIOPLEANU",
+            "address": "STR. ION CIOPLEANU NR.8, Bucuresti",
+            "latitude": 44.4159541,
+            "longitude": 26.1471647
+        },
+        {
+            "name": "Mega Image Shop&Go D. CANTEMIR 2B",
+            "address": "STR. BD DIMITRIE CANTEMIR NR.2B, Bucuresti",
+            "latitude": 44.424521,
+            "longitude": 26.1035463
+        },
+        {
+            "name": "Mega Image GEORGE ENESCU",
+            "address": "STR. GEORGE ENESCU NR. 36-42, Bucuresti",
+            "latitude": 44.44533089999999,
+            "longitude": 26.1008982
+        },
+        {
+            "name": "Mega Image Shop&Go Baneasa Parc",
+            "address": "SOS. BUCURESTI-PLOIESTI NR. 42-44, Bucuresti",
+            "latitude": 44.5089258,
+            "longitude": 26.0888281
+        },
+        {
+            "name": "Mega Image Shop&Go OCTAVIAN GOGA 24",
+            "address": "BD. OCTAVIAN GOGA NR. 24, Bucuresti",
+            "latitude": 44.4237071,
+            "longitude": 26.1216386
+        },
+        {
+            "name": "Mega Image Buhusi",
+            "address": "STRADA ALEEA BUHUSI NR. 2, Bucuresti",
+            "latitude": 44.4167152,
+            "longitude": 26.1820092
+        },
+        {
+            "name": "Mega Image Decebal",
+            "address": "BD.DECEBAL NR.6, Bucuresti",
+            "latitude": 44.4277222,
+            "longitude": 26.1322182
+        },
+        {
+            "name": "Mega Image Shop&Go Frigului 18",
+            "address": "STR. FRIGULUI NR. 18, Bucuresti",
+            "latitude": 44.415844,
+            "longitude": 26.09948
+        },
+        {
+            "name": "Mega Image GHITA SERBAN",
+            "address": "STR. SOLDAT GHITA SERBAN NR. 55, Bucuresti",
+            "latitude": 44.4146361,
+            "longitude": 26.1734683
+        },
+        {
+            "name": "Mega Image Piata Berceni",
+            "address": "SOS. BERCENI NR. 29, Bucuresti",
+            "latitude": 44.3859439,
+            "longitude": 26.1297127
+        },
+        {
+            "name": "Mega Image Shop&Go PLAZA FOOD COURT",
+            "address": "BD. TIMISOARA NR.26, Bucuresti",
+            "latitude": 44.4284742,
+            "longitude": 26.0348866
+        },
+        {
+            "name": "Mega Image RASARITULUI",
+            "address": "STR. RASARITULUI NR. 3, Bucuresti",
+            "latitude": 44.4313438,
+            "longitude": 26.0236385
+        },
+        {
+            "name": "Mega Image Shop&Go CONSTRUCTORILOR 20",
+            "address": "Bld. Constructorilor 20, Bucuresti",
+            "latitude": 44.4558627,
+            "longitude": 26.0429704
+        },
+        {
+            "name": "Mega Image TOPORASI",
+            "address": "Strada TOPORASI Nr. 31, Bucuresti",
+            "latitude": 44.3910636,
+            "longitude": 26.0861164
+        },
+        {
+            "name": "Mega Image Shop&Go GEORGE COSBUC 98",
+            "address": "B-DUL GEORGE COSBUC NR.98, Bucuresti",
+            "latitude": 44.4220238,
+            "longitude": 26.090872
+        },
+        {
+            "name": "Mega Image Shop&Go GROZAVESTI METROU",
+            "address": "STATIA DE METROU GROZAVESTI, Bucuresti",
+            "latitude": 44.4428191,
+            "longitude": 26.0599331
+        },
+        {
+            "name": "Mega Image STRADA PASCANI",
+            "address": "STR. PASCANI, Bucuresti",
+            "latitude": 44.4197684,
+            "longitude": 26.023988
+        },
+        {
+            "name": "Mega Image Shop&Go CALEA GRIVITEI236",
+            "address": "CALEA GRIVITEI 236, Bucuresti",
+            "latitude": 44.4705345,
+            "longitude": 26.0510027
+        },
+        {
+            "name": "Mega Image CARAMFIL",
+            "address": "BD. NICOLAE CARAMFIL NR. 6 - 8, Bucuresti",
+            "latitude": 44.4765367,
+            "longitude": 26.0929746
+        },
+        {
+            "name": "Mega Image Shop&Go THEODOR PALLADY13",
+            "address": "BD. THEODOR PALLADY NR. 13, Bucuresti",
+            "latitude": 44.4116554,
+            "longitude": 26.1709306
+        },
+        {
+            "name": "Mega Image Shop&Go OLTENITEI 162",
+            "address": "SOS. OLTENITEI NR. 162, BLOC 3, Bucuresti",
+            "latitude": 44.3952397,
+            "longitude": 26.1167757
+        },
+        {
+            "name": "Mega Image Shop&Go CRANGASI 25",
+            "address": "CAL. CRANGASI NR. 25, Bucuresti",
+            "latitude": 44.4532599,
+            "longitude": 26.0509358
+        },
+        {
+            "name": "Mega Image Shop&Go E GRIGORESCU 1",
+            "address": "STR. EREMIA GRIGORESCU NR. 1, Bucuresti",
+            "latitude": 44.4442636,
+            "longitude": 26.1030841
+        },
+        {
+            "name": "Mega Image Shop&Go MARGEANULUI 14",
+            "address": "STR. MARGEANULUI NR.14, Bucuresti",
+            "latitude": 44.406795,
+            "longitude": 26.0588586
+        },
+        {
+            "name": "Mega Image Shop&Go MATEI BASARAB 70",
+            "address": "SOS. MATEI BASARAB NR. 70, Bucuresti",
+            "latitude": 44.4302229,
+            "longitude": 26.1210196
+        },
+        {
+            "name": "Mega Image Shop&Go IULIU MANIU 67",
+            "address": "STR IULIU MANIU NR 67, Bucuresti",
+            "latitude": 44.4337364,
+            "longitude": 26.0183722
+        },
+        {
+            "name": "Mega Image Shop&Go PANTELIMON 146",
+            "address": "SOS PANTELIMON NR 146, Bucuresti",
+            "latitude": 44.4434923,
+            "longitude": 26.1482126
+        },
+        {
+            "name": "Mega Image Shop&Go OBREGIA 7",
+            "address": "BD OBREGIA NR7 A, Bucuresti",
+            "latitude": 44.3784474,
+            "longitude": 26.1172716
+        },
+        {
+            "name": "Mega Image UNIRII 2",
+            "address": "BD UNIRII NR 3-5, Bucuresti",
+            "latitude": 44.42761600000001,
+            "longitude": 26.0940826
+        },
+        {
+            "name": "Mega Image Shop&Go VALEA LUNGA 7",
+            "address": "STR VALEA LUNGA NR 7, Bucuresti",
+            "latitude": 44.4318833,
+            "longitude": 26.0144508
+        },
+        {
+            "name": "Mega Image Shop&Go N. BALCESCU 27-33",
+            "address": "BD NICOLAE BALCESCU NR 27-33, Bucuresti",
+            "latitude": 44.4397413,
+            "longitude": 26.0998299
+        },
+        {
+            "name": "Mega Image Shop&Go BUCURESTI-PLOIESTI 30-34",
+            "address": "SOS BUCURESTI - PLOIESTI NR 30-34, Bucuresti",
+            "latitude": 44.4930785,
+            "longitude": 26.0798187
+        },
+        {
+            "name": "Mega Image Shop&Go CALEA FERENTARI 83",
+            "address": "CALEA FERENTARI NR 83, Bucuresti",
+            "latitude": 44.4066283,
+            "longitude": 26.0797033
+        },
+        {
+            "name": "Mega Image Shop&Go SPLAIUL UNIRII 8",
+            "address": "SPLAIUL UNIRII NR 8, Bucuresti",
+            "latitude": 44.425284,
+            "longitude": 26.1075516
+        },
+        {
+            "name": "Mega Image RAUL DOAMNEI",
+            "address": "STR. RAUL DOAMNEI NR. 3, Bucuresti",
+            "latitude": 44.414948,
+            "longitude": 26.0245084
+        },
+        {
+            "name": "Mega Image Shop&Go AB I MIHALACHE 45",
+            "address": "BD. ION MIHALACHE 45, Bucuresti",
+            "latitude": 44.4577,
+            "longitude": 26.077671
+        },
+        {
+            "name": "Mega Image Shop&Go P PROTOPOPESCU 92",
+            "address": "BD. PACHE PROTOPOPESCU NR. 92, Bucuresti",
+            "latitude": 44.44039979999999,
+            "longitude": 26.1294407
+        },
+        {
+            "name": "Mega Image Shop&Go PREL. GHENCEA 28",
+            "address": "PRELUNGIREA GHENCEA NR. 28, Bucuresti",
+            "latitude": 44.41276269999999,
+            "longitude": 26.0212927
+        },
+        {
+            "name": "Mega Image Shop&Go MIHAI BRAVU 132",
+            "address": "SOS. MIHAI BRAVU NR.132, Bucuresti",
+            "latitude": 44.4400309,
+            "longitude": 26.1342108
+        },
+        {
+            "name": "Mega Image Shop&Go OBREGIA 16",
+            "address": "BULEVARDUL OBREGIA NR. 16, Bucuresti",
+            "latitude": 44.3841898,
+            "longitude": 26.1147092
+        },
+        {
+            "name": "Mega Image Shop&Go NATIUNILE UNITE 8",
+            "address": "BD. NATIUNILE UNITE NR. 8, Bucuresti",
+            "latitude": 44.430331,
+            "longitude": 26.092498
+        },
+        {
+            "name": "Mega Image Shop&Go AGATHA BARSESCU 15",
+            "address": "STR. AGATHA BARSESCU NR. 15 B, Bucuresti",
+            "latitude": 44.4195492,
+            "longitude": 26.1301714
+        },
+        {
+            "name": "Mega Image Shop&Go FLORIN CIUNGAN 6",
+            "address": "ALEEA FLORIN CIUNGAN NR. 6, Bucuresti",
+            "latitude": 44.4143906,
+            "longitude": 26.1392777
+        },
+        {
+            "name": "Mega Image Shop&Go MARGEANULUI 25",
+            "address": "STR. MARGEANULUI NR. 25, Bucuresti",
+            "latitude": 44.40478,
+            "longitude": 26.0574044
+        },
+        {
+            "name": "Mega Image DRUMUL TABEREI 2",
+            "address": "STR. DRUMUL TABEREI NR. 32, Bucuresti",
+            "latitude": 44.423692,
+            "longitude": 26.042179
+        },
+        {
+            "name": "Mega Image PUCHENI",
+            "address": "STR. PUCHENI NR. 42, Bucuresti",
+            "latitude": 44.4023783,
+            "longitude": 26.0612835
+        },
+        {
+            "name": "Mega Image INDUSTRIILOR",
+            "address": "STR. INDUSTRIILOR NR. 28, Bucuresti",
+            "latitude": 44.44493629999999,
+            "longitude": 25.9540716
+        },
+        {
+            "name": "Mega Image Shop&Go VASILE GOLDIS 2A",
+            "address": "ALEEA VASILE GOLDIS 2A, Bucuresti",
+            "latitude": 44.429007,
+            "longitude": 26.173228
+        },
+        {
+            "name": "Mega Image Shop&Go CRANGASI 10",
+            "address": "CALEA CRANGASI NR. 10, Bucuresti",
+            "latitude": 44.4542165,
+            "longitude": 26.0535277
+        },
+        {
+            "name": "Mega Image Shop&Go INTR SECTORULUI 1",
+            "address": "STR. INTRAREA SECTORULUI NR.1, Bucuresti",
+            "latitude": 44.4316107,
+            "longitude": 26.1404516
+        },
+        {
+            "name": "Mega Image MARGELELOR",
+            "address": "STR. MARGELELOR NR. 11, Bucuresti",
+            "latitude": 44.4363067,
+            "longitude": 26.0083554
+        },
+        {
+            "name": "Mega Image Shop&Go PAJUREI 13",
+            "address": "STR. PAJUREI NR.13, Bucuresti",
+            "latitude": 44.4834164,
+            "longitude": 26.0519486
+        },
+        {
+            "name": "Mega Image Shop&Go IZVORUL RECE 7",
+            "address": "STR. IZVORUL RECE NR.7, Bucuresti",
+            "latitude": 44.3886076,
+            "longitude": 26.1036823
+        },
+        {
+            "name": "Mega Image Shop&Go 1 DECEMBRIE 25",
+            "address": "BD.1 DECEMBRIE 1918 NR.25, Bucuresti",
+            "latitude": 44.4232857,
+            "longitude": 26.1773977
+        },
+        {
+            "name": "Mega Image T.VLADIMIRESCU",
+            "address": "BDUL TUDOR VLADIMIRESCU NR. 57, Bucuresti",
+            "latitude": 44.4227779,
+            "longitude": 26.0728058
+        },
+        {
+            "name": "Mega Image Shop&Go DRUMUL TABEREI 68",
+            "address": "DRUMUL TABEREI 68, Bucuresti",
+            "latitude": 44.4235432,
+            "longitude": 26.0258568
+        },
+        {
+            "name": "Mega Image Shop&Go CARAMFIL 30",
+            "address": "NICOLAE CARAMFIL NR.30, Bucuresti",
+            "latitude": 44.4799961,
+            "longitude": 26.0931809
+        },
+        {
+            "name": "Mega Image Shop&Go DIONISIE LUPU 64",
+            "address": "STR. DIONISIE LUPU NR.64-66, Bucuresti",
+            "latitude": 44.4436581,
+            "longitude": 26.1016797
+        },
+        {
+            "name": "Mega Image Shop&Go NERVA TRAIAN 11",
+            "address": "STR. NERVA TRAIAN NR.11, Bucuresti",
+            "latitude": 44.421914,
+            "longitude": 26.1176418
+        },
+        {
+            "name": "Mega Image Shop&Go G.CALBOREANU 1",
+            "address": "STR. GEORGE CALBOREANU NR.1, Bucuresti",
+            "latitude": 44.4321353,
+            "longitude": 26.0237291
+        },
+        {
+            "name": "Mega Image Shop&Go ION IRICEANU 2",
+            "address": "STR. IRICEANU ION NR.2, Bucuresti",
+            "latitude": 44.3850747,
+            "longitude": 26.1385762
+        },
+        {
+            "name": "Mega Image Shop&Go BASARABIA 90",
+            "address": "BD. BASARABIA NR. 90, Bucuresti",
+            "latitude": 44.4328188,
+            "longitude": 26.1507295
+        },
+        {
+            "name": "Mega Image Shop&Go HATMANUL ARBORE 15",
+            "address": "STR HATMANUL ARBORE NR 15-19, Bucuresti",
+            "latitude": 44.4541709,
+            "longitude": 26.0997625
+        },
+        {
+            "name": "Mega Image Shop&Go ION CAMPINEANU 26",
+            "address": "STR. ION CAMPINEANU NR.26, Bucuresti",
+            "latitude": 44.4376878,
+            "longitude": 26.0958478
+        },
+        {
+            "name": "Mega Image Shop&Go PORUMBACU 48",
+            "address": "STR. PORUMBACU NR.48, Bucuresti",
+            "latitude": 44.4562811,
+            "longitude": 26.0511423
+        },
+        {
+            "name": "Mega Image Shop&Go BUHUSI 2",
+            "address": "ALEEA BUHUSI NR.2, Bucuresti",
+            "latitude": 44.4167152,
+            "longitude": 26.1820092
+        },
+        {
+            "name": "Mega Image Shop&Go CAMIL RESSU 76",
+            "address": "BD. CAMIL RESSU NR 76 A, Bucuresti",
+            "latitude": 44.4127946,
+            "longitude": 26.162982
+        },
+        {
+            "name": "Mega Image Shop&Go N. GRIGORESCU 20",
+            "address": "BD. N. GRIGORESCU NR.20, Bucuresti",
+            "latitude": 44.42153,
+            "longitude": 26.163586
+        },
+        {
+            "name": "Mega Image Shop&Go 1 DECEMBRIE 28",
+            "address": "B-DUL 1 DECEMBRIE 1918 NR. 28, Bucuresti",
+            "latitude": 44.4270714,
+            "longitude": 26.1784384
+        },
+        {
+            "name": "Mega Image Shop&Go CHISINAU 8",
+            "address": "B-DUL CHISINAU NR.8, Bucuresti",
+            "latitude": 44.4405894,
+            "longitude": 26.1558818
+        },
+        {
+            "name": "Mega Image Shop&Go ZIDARULUI 4",
+            "address": "STR. ZIDARULUI NR. 4, Bucuresti",
+            "latitude": 44.416362,
+            "longitude": 26.0644972
+        },
+        {
+            "name": "Mega Image Shop&Go I. COSANZEANA 25",
+            "address": "STR. ILEANA COSANZEANA NR. 25-25, Bucuresti",
+            "latitude": 44.4131922,
+            "longitude": 26.07029
+        },
+        {
+            "name": "Mega Image Shop&Go CAMELIEI 2A",
+            "address": "STR. CAMELIEI NR. 2A, Bucuresti",
+            "latitude": 44.4432998,
+            "longitude": 26.078074
+        },
+        {
+            "name": "Mega Image Shop&Go J.L CALDERON 57",
+            "address": "STR. JEAN LOUIS CALDERON NR. 57, Bucuresti",
+            "latitude": 44.441456,
+            "longitude": 26.1043047
+        },
+        {
+            "name": "Mega Image Shop&Go IULIU MANIU 109",
+            "address": "BD. IULIU MANIU NR. 109, BLOC E, PARTER, Bucuresti",
+            "latitude": 44.4322179,
+            "longitude": 25.9999223
+        },
+        {
+            "name": "Mega Image Shop&Go C CALARASI 174",
+            "address": "CALEA CALARASILOR NR. 174, Bucuresti",
+            "latitude": 44.432089,
+            "longitude": 26.1260249
+        },
+        {
+            "name": "Mega Image Shop&Go CRANGASI 24B",
+            "address": "SOSEAUA CRANGASI NR. 24B, Bucuresti",
+            "latitude": 44.4537313,
+            "longitude": 26.0522578
+        },
+        {
+            "name": "Mega Image Shop&Go AGHIRES 1B",
+            "address": "STRADA AGHIRES NR. 1 B, Bucuresti",
+            "latitude": 44.4659263,
+            "longitude": 26.1052302
+        },
+        {
+            "name": "Mega Image AEROGARII",
+            "address": "BD. AEROGARII NR. 38A, Bucuresti",
+            "latitude": 44.49360000000001,
+            "longitude": 26.0847814
+        },
+        {
+            "name": "Mega Image Shop&Go GRIGORE MOISIL 53",
+            "address": "STR. GRIGORE MOISIL NR. 53, Bucuresti",
+            "latitude": 44.4645062,
+            "longitude": 26.1172603
+        },
+        {
+            "name": "Mega Image Shop&Go BUCURESTII NOI 53",
+            "address": "BD-.UL BUCURESTII NOI NR. 53, Bucuresti",
+            "latitude": 44.4834678,
+            "longitude": 26.0396684
+        },
+        {
+            "name": "Mega Image Shop&Go CALEA RAHOVEI 297",
+            "address": "CALEA RAHOVEI NR. 297, Bucuresti",
+            "latitude": 44.4128756,
+            "longitude": 26.0740608
+        },
+        {
+            "name": "Mega Image Shop&Go NICOLAE ROSU 30A",
+            "address": "STR. NICOLAE ROSU NR. 30A, Bucuresti",
+            "latitude": 44.4324958,
+            "longitude": 26.2024966
+        },
+        {
+            "name": "Mega Image Shop&Go AEROGARII 2-8",
+            "address": "BDUL AEROGARII NR 2-8, Bucuresti",
+            "latitude": 44.49416,
+            "longitude": 26.079959
+        },
+        {
+            "name": "Mega Image Shop&Go LUCIAN BLAGA 4",
+            "address": "STR.LUCIAN BLAGA NR.4, Bucuresti",
+            "latitude": 44.4248675,
+            "longitude": 26.1231387
+        },
+        {
+            "name": "Mega Image Shop&Go BUC-PLOIESTI 7A",
+            "address": "SOS BUCURESTI PLOIESTI NR 7A, Bucuresti",
+            "latitude": 44.490496,
+            "longitude": 26.078637
+        },
+        {
+            "name": "Mega Image Shop&Go CONSTRUCTORILOR26",
+            "address": "BD-UL CONSTRUCTORILOR NR. 26, Bucuresti",
+            "latitude": 44.4537626,
+            "longitude": 26.0450272
+        },
+        {
+            "name": "Mega Image Shop&Go P ISPIRESCU 115",
+            "address": "STR. PETRE ISPIRESCU NR. 115, Bucuresti",
+            "latitude": 44.417201,
+            "longitude": 26.058543
+        },
+        {
+            "name": "Mega Image Shop&Go 13 SEPTEMBRIE 162",
+            "address": "CALEA 13 SEPTEMBRIE NR. 162, Bucuresti",
+            "latitude": 44.4225831,
+            "longitude": 26.0703847
+        },
+        {
+            "name": "Mega Image Shop&Go CAMIL RESSU 20",
+            "address": "B-DUL CAMIL RESSU NR. 20, Bucuresti",
+            "latitude": 44.4177328,
+            "longitude": 26.1452542
+        },
+        {
+            "name": "Mega Image Shop&Go EROII SANITARI1-3",
+            "address": "BLD.EROII SANITARI NR. 1-3, Bucuresti",
+            "latitude": 44.4341236,
+            "longitude": 26.0768353
+        },
+        {
+            "name": "Mega Image Shop&Go GARA OBOR 14",
+            "address": "BD. GARII OBOR NR. 14, Bucuresti",
+            "latitude": 44.447294,
+            "longitude": 26.1418219
+        },
+        {
+            "name": "Mega Image Shop&Go ION PILLAT 4",
+            "address": "STR. ION PILLAT NR. 4, Bucuresti",
+            "latitude": 44.4269046,
+            "longitude": 26.1232232
+        },
+        {
+            "name": "Mega Image Shop&Go PARALUTELOR 7A",
+            "address": "STR. PARALUTELOR NR. 5-7, Bucuresti",
+            "latitude": 44.4387886,
+            "longitude": 26.0069437
+        },
+        {
+            "name": "Mega Image Shop&Go VIRTUTII 9",
+            "address": "SOS. VIRTUTII NR. 9, Bucuresti",
+            "latitude": 44.4384279,
+            "longitude": 26.0348853
+        },
+        {
+            "name": "Mega Image Shop&Go CAROL 65",
+            "address": "BD. CAROL I NR. 65, Bucuresti",
+            "latitude": 44.4380803,
+            "longitude": 26.1152544
+        },
+        {
+            "name": "Mega Image Shop&Go DRUMUL TABEREI 90",
+            "address": "BD. DR. TABEREI NR. 90, Bucuresti",
+            "latitude": 44.4197347,
+            "longitude": 26.019477
+        },
+        {
+            "name": "Mega Image GHEORGHE DUCA",
+            "address": "B-DUL. ING. GHEORGHE DUCA NR.3-5, Bucuresti",
+            "latitude": 44.4485178,
+            "longitude": 26.0765809
+        },
+        {
+            "name": "Mega Image Shop&Go TIMISOARA 17A",
+            "address": "BD TIMISOARA NR 17A, Bucuresti",
+            "latitude": 44.4281216,
+            "longitude": 26.0514443
+        },
+        {
+            "name": "Mega Image GEORGE VALSAN",
+            "address": "STR. GEORGE VALSAN NR. 24, Bucuresti",
+            "latitude": 44.456771,
+            "longitude": 26.04398
+        },
+        {
+            "name": "Mega Image Shop&Go MURGUTA 2",
+            "address": "STR. MURGUTA NR.2, Bucuresti",
+            "latitude": 44.4305542,
+            "longitude": 26.0216062
+        },
+        {
+            "name": "Mega Image Shop&Go IOSIF HODOS 1A",
+            "address": "AL. IOSIF HODOS 1A, Bucuresti",
+            "latitude": 44.414513,
+            "longitude": 26.174752
+        },
+        {
+            "name": "Mega Image Shop&Go ELISABETA 25",
+            "address": "BD. REGINA ELISABETA NR. 25, Bucuresti",
+            "latitude": 44.4346036,
+            "longitude": 26.0968068
+        },
+        {
+            "name": "Mega Image Shop&Go PANTELIMON 350",
+            "address": "SOS. PANTELIMON NR. 350, Bucuresti",
+            "latitude": 44.44145899999999,
+            "longitude": 26.1751598
+        },
+        {
+            "name": "Mega Image Gusturi romanesti ION MIHALACHE 104",
+            "address": "B-DUL ION MIHALACHE NR.104, Bucuresti",
+            "latitude": 44.4617642,
+            "longitude": 26.0735033
+        },
+        {
+            "name": "Mega Image Shop&Go 13 SEPTEMBRIE 107",
+            "address": "STR CALEA 13 SEPTEMBRIE NR. 107-109, Bucuresti",
+            "latitude": 44.4244216,
+            "longitude": 26.0765256
+        },
+        {
+            "name": "Mega Image ACADEMIEI",
+            "address": "STR. ACADEMIEI NR.2, Bucuresti",
+            "latitude": 44.4340213,
+            "longitude": 26.0998228
+        },
+        {
+            "name": "Mega Image MENDELEEV",
+            "address": "STR. MENDELEEV I D NR. 7-15, Bucuresti",
+            "latitude": 44.4447118,
+            "longitude": 26.0965244
+        },
+        {
+            "name": "Mega Image N. TITULESCU 2",
+            "address": "SOS. NICOLAE TITULESCU NR. 94, Bucuresti",
+            "latitude": 44.4515667,
+            "longitude": 26.0703593
+        },
+        {
+            "name": "Mega Image BASARABIA 2",
+            "address": "BD. BASARABIA NR. 116, Bucuresti",
+            "latitude": 44.4339691,
+            "longitude": 26.1574755
+        },
+        {
+            "name": "Mega Image Gusturi romanesti MOGHIOROS 2",
+            "address": "DR. TABEREI, NR. 40-44, Bucuresti",
+            "latitude": 44.4230714,
+            "longitude": 26.037345
+        },
+        {
+            "name": "Mega Image APAHIDA",
+            "address": "ALEEA APAHIDA NR 17-19, Bucuresti",
+            "latitude": 44.419932,
+            "longitude": 26.1136325
+        },
+        {
+            "name": "Mega Image FERENTARI",
+            "address": "STR. PRELUNGIREA FERENTARI NR. 52-60, Bucuresti",
+            "latitude": 44.3933122,
+            "longitude": 26.0825613
+        },
+        {
+            "name": "Mega Image Shop&Go PROTOPOPESCU 30",
+            "address": "BD. PACHE PROTOPOPESCU NR.30, Bucuresti",
+            "latitude": 44.43863169999999,
+            "longitude": 26.1207138
+        },
+        {
+            "name": "Mega Image Shop&Go ST CEL MARE 4",
+            "address": "SOS. STEFAN CEL MARE NR. 4, Bucuresti",
+            "latitude": 44.4528023,
+            "longitude": 26.1117839
+        },
+        {
+            "name": "Mega Image Shop&Go PANTELIMON 357",
+            "address": "SOS. PANTELIMON NR. 357, Bucuresti",
+            "latitude": 44.4411627,
+            "longitude": 26.1809353
+        },
+        {
+            "name": "Mega Image Shop&Go FLORUTA ION 65",
+            "address": "STR FLORUTA ION NR 65, Bucuresti",
+            "latitude": 44.4791116,
+            "longitude": 26.1435406
+        },
+        {
+            "name": "Mega Image LACUL MORII",
+            "address": "STR DAMBOVITEI NR 40, Bucuresti",
+            "latitude": 44.44511989999999,
+            "longitude": 26.0327251
+        },
+        {
+            "name": "Mega Image Shop&Go INVINGATORILOR 24",
+            "address": "STR. INVINGATORILOR NR. 24, Bucuresti",
+            "latitude": 44.4297771,
+            "longitude": 26.1308113
+        },
+        {
+            "name": "Mega Image ARON COTRUS",
+            "address": "STR. ARON COTRUS NR. 57, Bucuresti",
+            "latitude": 44.4848229,
+            "longitude": 26.0882868
+        },
+        {
+            "name": "Mega Image Shop&Go I.MIHALACHE 323A",
+            "address": "BD. ION MIHALACHE NR. 323 A, Bucuresti",
+            "latitude": 44.4694289,
+            "longitude": 26.0568859
+        },
+        {
+            "name": "Mega Image Shop&Go CALEA PLEVNEI 141",
+            "address": "CALEA PLEVNEI 141C, Bucuresti",
+            "latitude": 44.4438862,
+            "longitude": 26.0693357
+        },
+        {
+            "name": "Mega Image Shop&Go BARCA 14",
+            "address": "STR. BARCA NR. 14, Bucuresti",
+            "latitude": 44.4107685,
+            "longitude": 26.0643783
+        },
+        {
+            "name": "Mega Image PIATRA MORII",
+            "address": "STR. PIATRA MORII NR.16 A SI NR. 16, Bucuresti",
+            "latitude": 44.48781690000001,
+            "longitude": 26.0491587
+        },
+        {
+            "name": "Mega Image Shop&Go VASILE LASCAR 178",
+            "address": "STR. VASILE LASCAR NR.178, Bucuresti",
+            "latitude": 44.4499097,
+            "longitude": 26.1119412
+        },
+        {
+            "name": "Mega Image Shop&Go COLENTINA 27",
+            "address": "SOS. COLENTINA NR. 27, Bucuresti",
+            "latitude": 44.456377,
+            "longitude": 26.128931
+        },
+        {
+            "name": "Mega Image Shop&Go VIITORULUI 135",
+            "address": "STR. VIITORULUI NR. 135, Bucuresti",
+            "latitude": 44.4492154,
+            "longitude": 26.1160719
+        },
+        {
+            "name": "Mega Image Shop&Go CALEA RAHOVEI 321",
+            "address": "CAL. RAHOVEI NR. 321, Bucuresti",
+            "latitude": 44.408325,
+            "longitude": 26.0674427
+        },
+        {
+            "name": "Mega Image Shop&Go UVERTURII 89",
+            "address": "BDUL. UVERTURII NR.89, Bucuresti",
+            "latitude": 44.4403607,
+            "longitude": 26.0250323
+        },
+        {
+            "name": "Mega Image Shop&Go M SEBASTIAN 23",
+            "address": "STR. MIHAIL SEBASTIAN NR. 23E, Bucuresti",
+            "latitude": 44.417803,
+            "longitude": 26.0680767
+        },
+        {
+            "name": "Mega Image Shop&Go BUCURESTII NOI185",
+            "address": "BUCURESTII NOI, NR. 185, Bucuresti",
+            "latitude": 44.49801780000001,
+            "longitude": 26.0288141
+        },
+        {
+            "name": "Mega Image Shop&Go CAROL 23",
+            "address": "BD. CAROL I NR.23, Bucuresti",
+            "latitude": 44.436553,
+            "longitude": 26.1056886
+        },
+        {
+            "name": "Mega Image Shop&Go STELIAN MIHALE 19",
+            "address": "STR. STELIAN MIHALE NR. 19, Bucuresti",
+            "latitude": 44.4157926,
+            "longitude": 26.1676866
+        },
+        {
+            "name": "Mega Image Shop&Go BALTARETULUI17-21",
+            "address": "STR. BALTARETULUI NR. 17-21, Bucuresti",
+            "latitude": 44.4185339,
+            "longitude": 26.0634509
+        },
+        {
+            "name": "Mega Image Shop&Go TIMONIERULUI 10",
+            "address": "STR. DRUMUL TIMONIERULUI NR.10, Bucuresti",
+            "latitude": 44.4321999,
+            "longitude": 26.0285551
+        },
+        {
+            "name": "Mega Image Shop&Go EDGAR QUINET 8-10",
+            "address": "STR. EDGAR QUINET NR 8-10, Bucuresti",
+            "latitude": 44.43541500000001,
+            "longitude": 26.0991604
+        },
+        {
+            "name": "Mega Image Shop&Go IC BRATIANU 10",
+            "address": "BD. I.C. BRATIANU NR.10, Bucuresti",
+            "latitude": 44.43344450000001,
+            "longitude": 26.1029106
+        },
+        {
+            "name": "Mega Image Shop&Go DR TABEREI 44E",
+            "address": "DRUMUL TABEREI 44E, Bucuresti",
+            "latitude": 44.4229555,
+            "longitude": 26.0356682
+        },
+        {
+            "name": "Mega Image DOAMNA GHICA 2",
+            "address": "STR. DOAMNA GHICA NR 177, Bucuresti",
+            "latitude": 44.4582517,
+            "longitude": 26.1380689
+        },
+        {
+            "name": "Mega Image Shop&Go BUDILA 9",
+            "address": "STR. BUDILA NR. 9, Bucuresti",
+            "latitude": 44.4350791,
+            "longitude": 26.1261846
+        }
+    ],
+    "profi_stores": [
+        {
+            "name": "Profi",
+            "address": "Sergent Constantin Moise, nr 16 A/5B, bl. 1, sc. 5, parter, Sector 6",
+            "latitude": 44.4295065,
+            "longitude": 26.0392486
+        },
+        {
+            "name": "Profi",
+            "address": "Strada Foisorului, nr.108-112, Municipiul Bucuresti, Sector 3",
+            "latitude": 44.4156278,
+            "longitude": 26.1224937
+        },
+        {
+            "name": "Profi",
+            "address": "Mun. Bucuresti, Sectorul 4, Drumul Binelui, nr. 41B, parter, Spatiu comercial 1",
+            "latitude": 44.3706966,
+            "longitude": 26.1265866
+        },
+        {
+            "name": "Profi",
+            "address": "B-dul Timisoara, Nr.101 P",
+            "latitude": 44.41825739999999,
+            "longitude": 26.000054
+        },
+        {
+            "name": "Profi",
+            "address": "Drumul Gura Calitei, nr. 53B",
+            "latitude": 44.4148423,
+            "longitude": 26.1967423
+        },
+        {
+            "name": "Profi",
+            "address": "Str. Baciului, nr. 4",
+            "latitude": 44.384541,
+            "longitude": 26.082533
+        },
+        {
+            "name": "Profi",
+            "address": "Str. Dumitru Brumarescu, nr. 14, bl S1",
+            "latitude": 44.36064529999999,
+            "longitude": 26.1371677
+        },
+        {
+            "name": "Profi",
+            "address": "Bulevardul Timisoara nr 26 Z, Anchor Plaza ,Sector 6 Bucuresti",
+            "latitude": 44.4298879,
+            "longitude": 26.0356577
+        },
+        {
+            "name": "Profi",
+            "address": "Strada Drajna, nr.3A, sector 6",
+            "latitude": 44.4413505,
+            "longitude": 26.0535249
+        },
+        {
+            "name": "Profi",
+            "address": "Str Stirbei Voda nr.160, bl.22 B",
+            "latitude": 44.4396186,
+            "longitude": 26.0798128
+        },
+        {
+            "name": "Profi",
+            "address": "Drumul Gura Putnei 86-90",
+            "latitude": 44.416821,
+            "longitude": 26.1942645
+        },
+        {
+            "name": "Profi",
+            "address": "Bulevardul Ion Ionescu de la Brad",
+            "latitude": 44.4985369,
+            "longitude": 26.0720952
+        },
+        {
+            "name": "Profi",
+            "address": "Strada Sfanta Vineri, nr. 21 A, parter",
+            "latitude": 44.430543,
+            "longitude": 26.106819
+        },
+        {
+            "name": "Profi",
+            "address": "Bulevardul Unirii, nr.15, bloc 3",
+            "latitude": 44.42765199999999,
+            "longitude": 26.097569
+        },
+        {
+            "name": "Profi",
+            "address": "Sos. Bucuresti-Ploiesti, nr.12",
+            "latitude": 44.491221,
+            "longitude": 26.079537
+        },
+        {
+            "name": "Profi",
+            "address": "sos. Mihai Bravu, nr.123-135",
+            "latitude": 44.43898,
+            "longitude": 26.135902
+        },
+        {
+            "name": "Profi",
+            "address": "Calea Crangasi, nr.15, sector 6",
+            "latitude": 44.453446,
+            "longitude": 26.0539479
+        },
+        {
+            "name": "Profi",
+            "address": "Str Valea Oltului, nr.12, sector 6",
+            "latitude": 44.4179927,
+            "longitude": 26.0140067
+        },
+        {
+            "name": "Profi",
+            "address": "Strada Valea Lunga 7,bloc140 parter",
+            "latitude": 44.4318833,
+            "longitude": 26.0144508
+        },
+        {
+            "name": "Profi",
+            "address": "Sectorul 6, Str. Dealul Tugulea,nr3",
+            "latitude": 44.4391387,
+            "longitude": 26.0311774
+        },
+        {
+            "name": "Profi",
+            "address": "strada Baia de Arama, nr. 1",
+            "latitude": 44.437808,
+            "longitude": 26.163474
+        },
+        {
+            "name": "Profi",
+            "address": "Soseaua Virtutii nr. 22D, corp B2",
+            "latitude": 44.4432462,
+            "longitude": 26.0375787
+        },
+        {
+            "name": "Profi",
+            "address": "str.Aleea Moldoveni, nr.5,bl. B2l",
+            "latitude": 44.3847416,
+            "longitude": 26.0987901
+        },
+        {
+            "name": "Profi",
+            "address": "Drumul Valea Doftanei,nr.77A,parter",
+            "latitude": 44.418092,
+            "longitude": 26.0053807
+        },
+        {
+            "name": "Profi",
+            "address": "Drumul Dealu Alunis nr.43,",
+            "latitude": 44.37161,
+            "longitude": 26.112573
+        },
+        {
+            "name": "Profi",
+            "address": "Intrarea Muncii 23, Sector 3, Bucuresti",
+            "latitude": 44.4356695,
+            "longitude": 26.1661401
+        },
+        {
+            "name": "Profi",
+            "address": "Calea Grivitei, nr.230 B, parter, sector 1, Bucuresti",
+            "latitude": 44.4686245,
+            "longitude": 26.0524331
+        },
+        {
+            "name": "Profi",
+            "address": "Strada Tepes Voda, nr. 66-72, bloc 1, parter, Bucuresti, sector 2",
+            "latitude": 44.4352242,
+            "longitude": 26.1256915
+        },
+        {
+            "name": "Profi",
+            "address": "Mun. Bucuresti, Sectorul 3, Bdul. Decebal, nr. 2, tronson 2+3, Bl. H3, parter",
+            "latitude": 44.4268957,
+            "longitude": 26.130731
+        },
+        {
+            "name": "Profi",
+            "address": "Str. Postasului, Nr. 35 - 37, parter",
+            "latitude": 44.4165484,
+            "longitude": 26.1878166
+        },
+        {
+            "name": "Profi",
+            "address": "Strada Huedin 19, sector 4, Bucuresti",
+            "latitude": 44.3842981,
+            "longitude": 26.1017181
+        },
+        {
+            "name": "Profi",
+            "address": "Municipiul Bucuresti, Calea Crangas",
+            "latitude": 44.4532318,
+            "longitude": 26.0476533
+        },
+        {
+            "name": "Profi",
+            "address": "Municipiul Bucuresti, str. Brasov, nr. 24, bl. 717, Sector 6",
+            "latitude": 44.4174037,
+            "longitude": 26.0338316
+        },
+        {
+            "name": "Profi",
+            "address": "Strada Margeanului nr. 16, Bloc M49, parter,sector 5,Bucuresti",
+            "latitude": 44.4072143,
+            "longitude": 26.0590069
+        },
+        {
+            "name": "Profi",
+            "address": "Splaiul Independentei 313 B, sector 6,Bucuresti",
+            "latitude": 44.4419808,
+            "longitude": 26.0510819
+        },
+        {
+            "name": "Profi",
+            "address": "Aleea Fizicienilor, Nr. 1, demisolul complexului, sector 3, Bucuresti",
+            "latitude": 44.4122335,
+            "longitude": 26.1510427
+        },
+        {
+            "name": "Profi",
+            "address": "Soseaua Giurgiului 131, Bucuresti",
+            "latitude": 44.3864227,
+            "longitude": 26.0917568
+        },
+        {
+            "name": "Profi",
+            "address": "Str. Samoila Dumitru, Nr. 27-29, sector 4, Bucuresti",
+            "latitude": 44.3853622,
+            "longitude": 26.1330142
+        },
+        {
+            "name": "Profi",
+            "address": "Soseaua Mihai Bravu 90-96, parter",
+            "latitude": 44.4429856,
+            "longitude": 26.1291725
+        },
+        {
+            "name": "Profi",
+            "address": "Str. Gura Fagetului, Nr. 58-68",
+            "latitude": 44.415949,
+            "longitude": 26.1905136
+        },
+        {
+            "name": "Profi",
+            "address": "Sos Stefan cel Mare 6,bl.15Aparter",
+            "latitude": 44.4527064,
+            "longitude": 26.1006211
+        },
+        {
+            "name": "Profi",
+            "address": "Bucuresti Victoriei nr. 155 City 1A",
+            "latitude": 44.451265,
+            "longitude": 26.086502
+        },
+        {
+            "name": "Profi",
+            "address": "Bucuresti Ghencea 28 (B)",
+            "latitude": 44.4113694,
+            "longitude": 26.0215602
+        },
+        {
+            "name": "Profi",
+            "address": "Str. Sergiu Cutieru Alexandru nr. 25 A bl. 2 Sector 6",
+            "latitude": 44.4300655,
+            "longitude": 26.0366901
+        },
+        {
+            "name": "Profi",
+            "address": "Calea Crangasi 42,bl.10,parter,sec6",
+            "latitude": 44.4527323,
+            "longitude": 26.0410316
+        },
+        {
+            "name": "Profi",
+            "address": "Str. Uioara nr.3, bl.M2,parter",
+            "latitude": 44.379336,
+            "longitude": 26.1031693
+        },
+        {
+            "name": "Profi",
+            "address": "Strada Lamotesti 3-5, bl.62,parter",
+            "latitude": 44.381032,
+            "longitude": 26.1069131
+        },
+        {
+            "name": "Profi",
+            "address": "Strada Oltenitei 162,sector 4",
+            "latitude": 44.375335,
+            "longitude": 26.1755733
+        },
+        {
+            "name": "Profi",
+            "address": "Soseaua Pantelimon 311, BL.7,",
+            "latitude": 44.4416277,
+            "longitude": 26.1786649
+        },
+        {
+            "name": "Profi",
+            "address": "Sos. Mihai Bravu 451-471,",
+            "latitude": 44.4124864,
+            "longitude": 26.129155
+        },
+        {
+            "name": "Profi",
+            "address": "Bulevardul Alexandru Obregia 16",
+            "latitude": 44.3841898,
+            "longitude": 26.1147092
+        },
+        {
+            "name": "Profi",
+            "address": "Str. C-tin Radulescu Motru, nr 12",
+            "latitude": 44.8027376,
+            "longitude": 22.9728558
+        },
+        {
+            "name": "Profi",
+            "address": "Bulevardul Uverturii, Nr. 87",
+            "latitude": 44.44008119999999,
+            "longitude": 26.0260259
+        }
+    ],
+    "la_doi_pasi_stores": [
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Maica Domnului 61",
+            "latitude": 44.4615598,
+            "longitude": 26.1190278
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Straulesti 60A",
+            "latitude": 44.489349,
+            "longitude": 26.06532
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, sos. Pantelimon 312",
+            "latitude": 44.44207859999999,
+            "longitude": 26.1684711
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Nutu Ion 2",
+            "latitude": 44.4232934,
+            "longitude": 26.0644433
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Drumul Binelui 41",
+            "latitude": 44.37078109999999,
+            "longitude": 26.1260459
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Bd. Camil Ressu 41",
+            "latitude": 44.4150325,
+            "longitude": 26.1541679
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Calea Vitan 213-215",
+            "latitude": 44.41141400000001,
+            "longitude": 26.136309
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Constantin Brancusi 13",
+            "latitude": 44.429097,
+            "longitude": 26.1609237
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, sos. Pipera 15",
+            "latitude": 44.479462,
+            "longitude": 26.0966812
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Pajurei 24",
+            "latitude": 44.4825248,
+            "longitude": 26.0557589
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Papiu-Ilarian 43B",
+            "latitude": 44.4267674,
+            "longitude": 26.1025384
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Odei 153",
+            "latitude": 44.4267674,
+            "longitude": 26.1025384
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Teiul Doamnei 5",
+            "latitude": 44.4583404,
+            "longitude": 26.1277762
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Calea Mosilor 292",
+            "latitude": 44.445123,
+            "longitude": 26.121156
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Avrig 29",
+            "latitude": 44.4453418,
+            "longitude": 26.1310568
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Drumul Binelui 178",
+            "latitude": 44.36570760000001,
+            "longitude": 26.1183689
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Bd. Camil Ressu 20",
+            "latitude": 44.4177328,
+            "longitude": 26.1452542
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, sos. Salaj 333",
+            "latitude": 44.388471,
+            "longitude": 26.0623092
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, sos. Iancului 11",
+            "latitude": 44.4419386,
+            "longitude": 26.1373581
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Cristescu Dima 1",
+            "latitude": 44.442788,
+            "longitude": 26.141341
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Margeanului 26",
+            "latitude": 44.409391,
+            "longitude": 26.059803
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Valea Doftanei 69",
+            "latitude": 44.418206,
+            "longitude": 26.006314
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Intrarea Giurgiului 164",
+            "latitude": 44.3809952,
+            "longitude": 26.0915888
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Bachus 31",
+            "latitude": 44.39868999999999,
+            "longitude": 26.0822777
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Calea Rahovei 327",
+            "latitude": 44.4066071,
+            "longitude": 26.0650316
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Margeanului 48",
+            "latitude": 44.413414,
+            "longitude": 26.061512
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Straduintei",
+            "latitude": 44.3818622,
+            "longitude": 26.115854
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Soldat Ghita serban 38-42",
+            "latitude": 44.41492059999999,
+            "longitude": 26.1714801
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Intrarea Paulis 8",
+            "latitude": 44.43595759999999,
+            "longitude": 26.0204887
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Bd. Timisoara 69",
+            "latitude": 44.4260167,
+            "longitude": 26.0206861
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Piotr Ilici Ceaikovski 9",
+            "latitude": 44.4267674,
+            "longitude": 26.1025384
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Bd. Constantin Brancoveanu 10",
+            "latitude": 44.3798082,
+            "longitude": 26.1096632
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Petre Ispirescu 31",
+            "latitude": 44.4139349,
+            "longitude": 26.0652593
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Calea Victoriei 206",
+            "latitude": 44.4493677,
+            "longitude": 26.0886595
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Moldoveni 5",
+            "latitude": 44.3848041,
+            "longitude": 26.0985367
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Ion Pilat 1",
+            "latitude": 44.4266111,
+            "longitude": 26.1230156
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Iuliu Maniu 586-590",
+            "latitude": 44.4353874,
+            "longitude": 25.9785536
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Bd. Pieptanari 71",
+            "latitude": 44.4012273,
+            "longitude": 26.0903823
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Dr. Iacob Felix 99-101",
+            "latitude": 44.4550948,
+            "longitude": 26.0798892
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Drumul Osiei 36A",
+            "latitude": 44.4369284,
+            "longitude": 25.9875473
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Reconstructiei 10",
+            "latitude": 44.4237955,
+            "longitude": 26.1487977
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Drumul Belsugului 38G",
+            "latitude": 44.4360029,
+            "longitude": 25.9941633
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Alexandriei 92-94",
+            "latitude": 44.4027698,
+            "longitude": 26.0555599
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Baltagului 5B",
+            "latitude": 44.4217027,
+            "longitude": 26.0630822
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Nicoale Zamfir 7B",
+            "latitude": 44.473658,
+            "longitude": 26.144101
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Postasului 15",
+            "latitude": 44.417746,
+            "longitude": 26.183393
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Bd. Uverturii 69B",
+            "latitude": 44.4366669,
+            "longitude": 26.0334539
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Ion Campineanu 24",
+            "latitude": 44.43727699999999,
+            "longitude": 26.0965027
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Blanari Nr.18",
+            "latitude": 44.4329382,
+            "longitude": 26.1012273
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Aleea Mizil 56",
+            "latitude": 44.40621700000001,
+            "longitude": 26.1836449
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Teius 120-144",
+            "latitude": 44.3878201,
+            "longitude": 26.0529023
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, sos. stefan cel Mare 54",
+            "latitude": 44.4522975,
+            "longitude": 26.1163326
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Calea serban Voda 272",
+            "latitude": 44.4022467,
+            "longitude": 26.0939243
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Erou Ion Scortan 139",
+            "latitude": 44.4822663,
+            "longitude": 26.1439504
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Victor Brauner 42",
+            "latitude": 44.4112268,
+            "longitude": 26.2006283
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Marului 27",
+            "latitude": 44.4693839,
+            "longitude": 26.1698053
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, sos. Salaj 223",
+            "latitude": 44.4007216,
+            "longitude": 26.0714669
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Calea Rahovei 291",
+            "latitude": 44.4136657,
+            "longitude": 26.0755479
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Ghirlandei 14",
+            "latitude": 44.4396369,
+            "longitude": 26.0156172
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, sos. Dudesti-Pantelimon 42",
+            "latitude": 44.4383033,
+            "longitude": 26.1905754
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Ferentari 20",
+            "latitude": 44.4085725,
+            "longitude": 26.0773039
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Odei 84",
+            "latitude": 44.3758257,
+            "longitude": 26.1026909
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Oltenitei 12",
+            "latitude": 44.40061679999999,
+            "longitude": 26.1010619
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Dealul Bradului 87",
+            "latitude": 44.3594367,
+            "longitude": 26.1330585
+        },
+        {
+            "name": "LaDoiPasi",
+            "address": "Bucuresti, Dumbravita 2",
+            "latitude": 44.4259445,
+            "longitude": 26.0376874
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Pajurei 13",
+            "latitude": 44.4834164,
+            "longitude": 26.0519486
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Nerva Traian 12",
+            "latitude": 44.4211452,
+            "longitude": 26.1161968
+        },
+        {
+            "name": "LaDoiPasi EXTRA",
+            "address": "Bucuresti, Izvorul Rece 7",
+            "latitude": 44.3886076,
+            "longitude": 26.1036823
+        }
+    ],
+    "carrefour_stores": [
+        {
+            "name": "Carrefour Baneasa",
+            "address": "Soseaua Bucuresti-Ploiesti, Nr. 44A, Sector 1, Bucuresti",
+            "latitude": 44.51233,
+            "longitude": 26.081206
+        },
+        {
+            "name": "Carrefour Berceni",
+            "address": "Bd-ul Metalurgiei, Nr. 12-18, Sector 4, Bucuresti",
+            "latitude": 44.3741735,
+            "longitude": 26.1192019
+        },
+        {
+            "name": "Carrefour Colentina",
+            "address": "Soseaua Colentina, Nr. 426-426A, Sector 2, Bucuresti",
+            "latitude": 44.4750935,
+            "longitude": 26.1614993
+        },
+        {
+            "name": "Carrefour Colosseum",
+            "address": "Soseaua Chitilei, Nr. 284, Sector 1, Bucuresti",
+            "latitude": 44.4927961,
+            "longitude": 26.0177543
+        },
+        {
+            "name": "Carrefour Lujerului",
+            "address": "Bulevardul Iuliu Maniu 19, Bucuresti 061106, Romania",
+            "latitude": 44.4329618,
+            "longitude": 26.0365382
+        },
+        {
+            "name": "Carrefour Mega Mall",
+            "address": "Bd-ul Pierre de Coubertin, Nr. 3-5, Sector 2, Bucuresti",
+            "latitude": 44.4419242,
+            "longitude": 26.1522785
+        },
+        {
+            "name": "Carrefour Orhideea",
+            "address": "Splaiul Independentei, Nr. 210-210B (Grozavesti), Sector 6, Bucuresti",
+            "latitude": 44.4430992,
+            "longitude": 26.062652
+        },
+        {
+            "name": "Carrefour Pantelimon",
+            "address": "sos. Vergului 20, Bucuresti 022448, Romania",
+            "latitude": 44.4397145,
+            "longitude": 26.1835894
+        },
+        {
+            "name": "Carrefour Park Lake",
+            "address": "Str. Liviu Rebreanu, Nr 4, Sector 3",
+            "latitude": 44.4243161,
+            "longitude": 26.1610731
+        },
+        {
+            "name": "Carrefour Soseaua Alexandriei",
+            "address": "soseaua Alexandriei 152, Bucuresti 051543, Romania",
+            "latitude": 44.4008995,
+            "longitude": 26.0459692
+        },
+        {
+            "name": "Carrefour Sun Plaza",
+            "address": "Calea Vacaresti 391, Bucuresti 040069, Romania",
+            "latitude": 44.3953795,
+            "longitude": 26.1229861
+        },
+        {
+            "name": "Carrefour Unirii",
+            "address": "Bd-ul Corneliu Coposu, Nr. 2, Sector 3, Bucuresti",
+            "latitude": 44.4293677,
+            "longitude": 26.1014189
+        },
+        {
+            "name": "Carrefour Veranda",
+            "address": "Str. Ziduri Mosi, Nr. 23, Sector 2",
+            "latitude": 44.4523201,
+            "longitude": 26.1305948
+        },
+        {
+            "name": "Carrefour Vulcan",
+            "address": "Soseaua Mihail Sebastian, Nr. 88, Sector 5, Bucuresti",
+            "latitude": 44.41695199999999,
+            "longitude": 26.069622
+        },
+        {
+            "name": "Market Barbu Vacarescu",
+            "address": "Str. B. Vacarescu nr. 154 - 158, Sector 2, Bucuresti",
+            "latitude": 44.4645618,
+            "longitude": 26.109473
+        },
+        {
+            "name": "Market Bucuresti Caramfil",
+            "address": "Strada Nicolae Caramfil, Nr. 71-73, Sector 2, Bucuresti",
+            "latitude": 44.4824139,
+            "longitude": 26.0917334
+        },
+        {
+            "name": "Market Bucuresti Chilia Veche",
+            "address": "Str. Chilia Veche, Nr. 2, Bucuresti, Sector 6",
+            "latitude": 44.4171233,
+            "longitude": 26.0284219
+        },
+        {
+            "name": "Market Bucuresti Crangasi",
+            "address": "Calea Crangasi, Nr. 87, Sector 6, Bucuresti",
+            "latitude": 44.452952,
+            "longitude": 26.049684
+        },
+        {
+            "name": "Market Bucuresti Cultural",
+            "address": "Bd-ul Alexandru Obregia, Nr. 31, Bl. 15, Sector 4, Bucuresti",
+            "latitude": 44.3817651,
+            "longitude": 26.1160012
+        },
+        {
+            "name": "Market Bucuresti Delfinului",
+            "address": "Soseaua Pantelimon, Nr. 249, Bl. 48, parter, Sector 2, Bucuresti",
+            "latitude": 44.4430059,
+            "longitude": 26.1589939
+        },
+        {
+            "name": "Market Bucuresti Drumul Taberei",
+            "address": "Bd-ul Drumul Taberei, Nr. 124, Sector 6, Bucuresti",
+            "latitude": 44.41690879999999,
+            "longitude": 26.0277403
+        },
+        {
+            "name": "Market Bucuresti Gorjului",
+            "address": "Bd-ul Iuliu Maniu, Nr. 140, Sector 6, Bucuresti",
+            "latitude": 44.43500179999999,
+            "longitude": 26.0197539
+        },
+        {
+            "name": "Market Bucuresti Oltenitei",
+            "address": "Sos Oltenitei, nr. 4 A, sector 4, Bucuresti",
+            "latitude": 44.4011919,
+            "longitude": 26.0994171
+        },
+        {
+            "name": "Market Bucuresti Ruxir/Veteranilor",
+            "address": "Bd-ul Iuliu Maniu, Nr. 78, 78-80, 92D, Sector 6, Bucuresti",
+            "latitude": 44.4344872,
+            "longitude": 26.0282302
+        },
+        {
+            "name": "Market Cloud 9 Residence",
+            "address": "Bucuresti, sos. Pipera nr. 61, bloc 1, etaj P+M, ap. Sp. Com., sector 2",
+            "latitude": 15.9128998,
+            "longitude": 79.7399875
+        },
+        {
+            "name": "Market Dorobantilor-ASE",
+            "address": "Calea Dorobantilor nr 31-33, Bucuresti",
+            "latitude": 44.4484757,
+            "longitude": 26.0983574
+        },
+        {
+            "name": "Market Economu Grozavesti",
+            "address": "Str. Economu Cezarescu 34-42, sector 6, Bucuresti",
+            "latitude": 44.4412558,
+            "longitude": 26.0566002
+        },
+        {
+            "name": "Market Ferdinand",
+            "address": "Bdul Ferdinand I nr 118, Bucuresti",
+            "latitude": 44.4438876,
+            "longitude": 26.1306811
+        },
+        {
+            "name": "Market Lunca Cernei",
+            "address": "Aleea Lunca Cernei nr. 6A, sector 6",
+            "latitude": 44.4248005,
+            "longitude": 26.0216971
+        },
+        {
+            "name": "Market Minis",
+            "address": "Aleea Barajul Dunarii nr. 3, Sector 3, Bucuresti",
+            "latitude": 44.4265151,
+            "longitude": 26.1686618
+        },
+        {
+            "name": "Market Minis Piata",
+            "address": "Aleea Barajul Dunarii, Nr. 12 A, Sector 3, Bucuresti",
+            "latitude": 44.4286955,
+            "longitude": 26.1677054
+        },
+        {
+            "name": "Market Promenada",
+            "address": "Promenada Shopping Center, Bucuresti, Calea Floreasca, 246 B, Sector 1",
+            "latitude": 44.47821099999999,
+            "longitude": 26.1035397
+        },
+        {
+            "name": "Market Razoare",
+            "address": "Soseaua Panduri, Nr. 71, Sector 5, Bucuresti",
+            "latitude": 44.4276555,
+            "longitude": 26.0656163
+        },
+        {
+            "name": "Market Regie Residence",
+            "address": "Str. Economu Cezarescu 34-42, sector 6, Bucuresti",
+            "latitude": 44.4412558,
+            "longitude": 26.0566002
+        },
+        {
+            "name": "Market Subcetate",
+            "address": "Strada Subcetate nr 49 , Sector 1 , Bucuresti",
+            "latitude": 44.4860672,
+            "longitude": 26.0334607
+        },
+        {
+            "name": "Market Victor Brauner",
+            "address": "Str. Victor Brauner, nr. 29, Bucuresti, sector 3",
+            "latitude": 44.41086869999999,
+            "longitude": 26.1972634
+        }
+    ]
+}
