@@ -311,6 +311,7 @@ def generate_heatmap():
         1.0: "#ffffff"   # White for the most intense points
     }
     ).add_to(m)
+    points_layer = folium.FeatureGroup(name="Turnover Points")
     i = 0
     for point in turnover_data:
         lat, lon, turnover = point
@@ -328,10 +329,12 @@ def generate_heatmap():
             fill_color='blue',
             fill_opacity=0.6,
             tooltip=f"Turnover: {turnover / 1000000:,.2f} Lei<br>Surface: {surfaces[i]:.2f} sqm"
-        ).add_to(m)
+        ).add_to(points_layer)
         i += 1
 
-    m.add_child(folium.LayerControl())
+    points_layer.add_to(m)
+    folium.LayerControl().add_to(m)
+
     m.save("turnover_heatmap.html")
 
 
