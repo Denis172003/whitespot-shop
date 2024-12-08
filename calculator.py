@@ -7,6 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 import pickle
+import random
 
 
 # Constants
@@ -43,7 +44,7 @@ def create_mock_training_data():
     target = profitability_years  # This would represent how many years it takes to become profitable.
 
     # Create a binary classification target for simplicity
-    target_binary = np.where(target < 3, 1, 0)  # 1 = profitable within 3 years, 0 = not profitable
+    target_binary = np.where(target < 3.25, 1, 0)  # 1 = profitable within 1 year, 0 = not profitable
 
     return features, target_binary, StandardScaler()
 
@@ -402,7 +403,7 @@ def generate_heatmap():
     for point in turnover_data:
         lat, lon, turnover = point
 
-        if turnover / 1000000 == 0:
+        if turnover / 1000000 == 0 or random.random() < 0.9:
             i += 1
             continue
 
@@ -414,7 +415,7 @@ def generate_heatmap():
             fill=True,
             fill_color='blue',
             fill_opacity=0.6,
-            tooltip=f"Turnover: {turnover / 1000000:,.2f} Lei<br>Surface: {surfaces[i]:.2f} sqm<br>Profit within 2 years: {'Yes' if Years_to_profit[i] == 1 else 'No'}"
+            tooltip=f"Turnover: {turnover / 1000000:,.2f} Milioane Lei<br>Surface: {surfaces[i]:.2f} sqm<br>Profit within 1 year: {'Yes' if Years_to_profit[i] == 1 else 'No'}"
         ).add_to(points_layer)
         i += 1
 
