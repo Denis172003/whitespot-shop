@@ -58,3 +58,14 @@ ctx.add_basemap(ax, source=ctx.providers.Stamen.Terrain)
 - Perform route analysis and geospatial computations.
 - Train and use ML models of Random Forest to analyze patterns and make predictions.
 
+## Documentation with relevant links on how we gathered all the necessary data:
+
+1) List of all Mega Image shops in Bucharest: https://www.profi.ro/magazine/
+2) Dispozable income mapping: https://geojson.io/#map=2/0/20
+3) Population Density: https://www.kontur.io/portfolio/population-dataset/
+4) Traffic data for Bucharest: https://osmnx.readthedocs.io/en/stable/
+5) Data from press about Mega Image: https://www.zf.ro/zf-24/mega-image-a-ajuns-cu-210-magazine-cel-mai-mare-chirias-de-la-parterul-blocurilor-din-bucuresti-11671359
+
+## Link to our ppt presentation:
+
+https://www.canva.com/design/DAGYpABcv8g/AaQQ_XV4Jm0Hy1w85WkV1g/edit?utm_content=DAGYpABcv8g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
