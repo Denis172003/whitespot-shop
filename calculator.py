@@ -201,7 +201,7 @@ store_coords = np.array([
 ])
 store_tree = KDTree(store_coords)
 
-radius = 0.01
+radius = 0.001
 
 # Compute density for all points
 def calculate_competition_score(lon, lat):
@@ -253,6 +253,7 @@ def normalize_turnover_data(turnover_data):
 def generate_heatmap():
     traffic_data = load_json_file("datasets/traffic_info.json")
     turnover_data = []
+    surfaces = []
     
     # Spatial KDTree lookups
     density_tree = KDTree(density_coords)
@@ -279,7 +280,7 @@ def generate_heatmap():
             competition_score = calculate_competition_score(lon, lat)
 
             # Calculate turnover for this data point
-            turnover, _ = calculate_turnover_and_surface(
+            turnover, surface = calculate_turnover_and_surface(
                 population_density_value,
                 income_value,
                 congestion,
@@ -288,28 +289,47 @@ def generate_heatmap():
             )
 
             turnover_data.append([lat, lon, turnover])
+            surfaces.append(surface)
 
     # Create the map with the calculated heatmap
     m = folium.Map(location=[44.5, 26.0], zoom_start=12)
     HeatMap(
-        normalize_turnover_data(turnover_data),
-        name="Turnover Heatmap",
-        radius=10.5,
-        gradient = {
-            0.0: "#000000",  # Black
-            0.1: "#001f4d",
-            0.2: "#0099ff",
-            0.3: "#00ff99",  # Light Green
-            0.4: "#00ff00",
-            0.5: "#ffff00",  # Yellow
-            0.6: "#cca300",
-            0.7: "#ff8000",  # Orange
-            0.8: "#ff5500",
-            0.9: "#cc2900",
-            1.0: "#661a00"   # Red
-        }
-
+    normalize_turnover_data(turnover_data),
+    name="Turnover Heatmap",
+    radius=15,  # Increased for stronger visual impact
+    gradient={
+        0.0: "#000000",  # Black
+        0.1: "#00008b",  # Dark Blue
+        0.2: "#0000ff",  # Bright Blue
+        0.3: "#1e90ff",  # Dodger Blue
+        0.4: "#00ff00",  # Bright Green
+        0.5: "#ffff00",  # Pure Yellow
+        0.6: "#ff4500",  # Orange Red
+        0.7: "#ff0000",  # Pure Red
+        0.8: "#8b0000",  # Dark Red
+        0.9: "#551a8b",  # Deep Purple
+        1.0: "#ffffff"   # White for the most intense points
+    }
     ).add_to(m)
+    i = 0
+    for point in turnover_data:
+        lat, lon, turnover = point
+
+        if turnover / 1000000 == 0:
+            i += 1
+            continue
+
+        # Add a CircleMarker with a tooltip
+        folium.CircleMarker(
+            location=(lat, lon),
+            radius=3,
+            color='blue',
+            fill=True,
+            fill_color='blue',
+            fill_opacity=0.6,
+            tooltip=f"Turnover: {turnover / 1000000:,.2f} Lei<br>Surface: {surfaces[i]:.2f} sqm"
+        ).add_to(m)
+        i += 1
 
     m.add_child(folium.LayerControl())
     m.save("turnover_heatmap.html")
