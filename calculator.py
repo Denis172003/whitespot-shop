@@ -3,6 +3,10 @@ import json
 import folium
 from folium.plugins import HeatMap
 from scipy.spatial import KDTree
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+import pickle
 
 
 # Constants
@@ -13,6 +17,81 @@ SURFACE_MAX = 1200  # Maximum store surface in sqm
 SURFACE_MEDIAN = 400  # Median store surface in sqm
 SURFACE_WEIGHTS = {"traffic": 0.5, "density": 0.4, "income": 0.05, "competition": 0.05}  # Weights for surface factors
 TURNOVER_WEIGHTS = {"density": 0.4, "income": 0.3, "traffic": 0.3}  # Weights for turnover factors
+
+
+# Mock training data creation for profitability prediction purposes
+def create_mock_training_data():
+    """
+    Creates mock data simulating profitability data over time for training purposes.
+    This simulates years taken for a shop to become profitable.
+    """
+    np.random.seed(42)
+
+    # Simulate features like income, competition score, traffic, surface area, population density
+    num_samples = 1000
+    income = np.random.uniform(900, 2500, num_samples)
+    population_density = np.random.uniform(1, 100, num_samples)
+    traffic = np.random.uniform(0, 1, num_samples)
+    competition_score = np.random.uniform(0, 1, num_samples)
+    surface_area = np.random.uniform(SURFACE_MIN, SURFACE_MAX, num_samples)
+
+    profitability_years = 5 - (income * 0.001 + population_density * 0.0002 + (1 - competition_score) * 0.5)
+    profitability_years = np.clip(profitability_years + np.random.normal(0, 1, len(profitability_years)), 1, 10)
+
+    # Features and target variables
+    features = np.vstack([income, population_density, traffic, competition_score, surface_area]).T
+    target = profitability_years  # This would represent how many years it takes to become profitable.
+
+    # Create a binary classification target for simplicity
+    target_binary = np.where(target < 3, 1, 0)  # 1 = profitable within 3 years, 0 = not profitable
+
+    return features, target_binary, StandardScaler()
+
+
+# Train the Random Forest model with mock data
+features, target, scaler = create_mock_training_data()
+
+# Scale features
+scaled_features = scaler.fit_transform(features)
+
+# Split the data into training/testing sets
+X_train, X_test, y_train, y_test = train_test_split(
+    scaled_features, target, test_size=0.2, random_state=42
+)
+
+# Train Random Forest model
+model = RandomForestClassifier(n_estimators=100, random_state=42)
+model.fit(X_train, y_train)
+
+# Evaluate accuracy
+predictions = model.predict(X_test)
+
+# Perform a prediction based on store data
+def predict_profitability(income, population_density, traffic, competition_score, surface_area):
+    """
+    Predicts whether a newly opened shop will become profitable within 5 years or not.
+    """
+    # Normalize input features
+    inputs = np.array([income, population_density, traffic, competition_score, surface_area]).reshape(1, -1)
+    scaled_inputs = scaler.transform(inputs)  # Scale inputs using the trained scaler
+    prediction = model.predict(scaled_inputs)
+
+    # Interpret the prediction
+    return prediction[0]
+
+# Perform a prediction based on store data
+def predict_profitability(income, population_density, traffic, competition_score, surface_area):
+    """
+    Predicts whether a newly opened shop will become profitable within 5 years or not.
+    """
+    # Normalize input features
+    inputs = np.array([income, population_density, traffic, competition_score, surface_area]).reshape(1, -1)
+    scaled_inputs = scaler.transform(inputs)  # Scale inputs using the trained scaler
+    prediction = model.predict(scaled_inputs)
+
+    # Interpret the prediction
+    return prediction[0]
+
 
 
 # Load JSON file utility
@@ -254,6 +333,7 @@ def generate_heatmap():
     traffic_data = load_json_file("datasets/traffic_info.json")
     turnover_data = []
     surfaces = []
+    Years_to_profit = []
     
     # Spatial KDTree lookups
     density_tree = KDTree(density_coords)
@@ -287,6 +367,12 @@ def generate_heatmap():
                 competition_score,
                 density_range, income_range, traffic_range
             )
+
+            # Predict profitability
+            years_to_profit = predict_profitability(
+                income_value, population_density_value, congestion, competition_score, surface
+            )
+            Years_to_profit.append(years_to_profit)
 
             turnover_data.append([lat, lon, turnover])
             surfaces.append(surface)
@@ -328,7 +414,7 @@ def generate_heatmap():
             fill=True,
             fill_color='blue',
             fill_opacity=0.6,
-            tooltip=f"Turnover: {turnover / 1000000:,.2f} Lei<br>Surface: {surfaces[i]:.2f} sqm"
+            tooltip=f"Turnover: {turnover / 1000000:,.2f} Lei<br>Surface: {surfaces[i]:.2f} sqm<br>Profit within 2 years: {'Yes' if Years_to_profit[i] == 1 else 'No'}"
         ).add_to(points_layer)
         i += 1
 
