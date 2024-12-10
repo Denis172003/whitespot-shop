@@ -1,4 +1,4 @@
-# whitespot-shop
+# next-best-store
 
 A Python-based solution for analyzing geospatial data, visualizing maps, and performing advanced geographic computations. This project leverages a variety of powerful libraries to enable integration, data manipulation, and visualization of geographic information.
 
